@@ -1,0 +1,33 @@
+{
+  "queries": [
+    "Radar Target Tracking",
+    "Multi-Target Tracking",
+    "Extended Kalman Filter radar",
+    "Unscented Kalman Filter radar",
+    "Interacting Multiple Model IMM",
+    "Joint Probabilistic Data Association JPDA",
+    "Multiple Hypothesis Tracking MHT",
+    "Track-Before-Detect TBD",
+    "ASTERIX Category 062",
+    "ASTERIX Cat 048",
+    "STANAG 4607 GMTI",
+    "Radar Kinematic State Vector",
+    "Radar Covariance Matrix",
+    "Radial Velocity Doppler Shift",
+    "Radar Cross Section RCS",
+    "Constant False Alarm Rate CFAR",
+    "Airborne Radar Tracking",
+    "UAV Radar Telemetry",
+    "AESA Radar Target Tracking",
+    "Cooperative Track Fusion",
+    "Non-Cooperative Target Recognition",
+    "NCTR radar",
+    "Radar HRRP target recognition",
+    "Jet Engine Modulation JEM"
+  ],
+  "db_path": "radar_corpus.db",
+  "csv_index_path": "sources_index.csv",
+  "download_dir": "downloads",
+  "max_documents": 500,
+  "max_storage_mb": 300
+}
