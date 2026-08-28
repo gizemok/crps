@@ -1,0 +1,56 @@
+{
+  "queries": [
+    "radar target tracking",
+    "radar track processing",
+    "track state estimation",
+    "radar track management",
+    "kinematic classification",
+    "trajectory classification",
+    "target motion classification",
+    "radar feature extraction",
+
+    "extended kalman filter radar",
+    "ekf radar",
+    "ukf radar",
+    "interacting multiple model",
+    "imm radar",
+
+    "radar data association",
+    "jpda radar",
+    "mht radar",
+    "radar gating",
+
+    "track-before-detect",
+    "tbd radar",
+    "asterix cat 062",
+    "asterix cat 048",
+    "stanag 4607",
+    "gmti radar",
+
+    "kinematic state vector",
+    "radar covariance matrix",
+    "doppler shift radar",
+    "radar cross section",
+    "rcs radar",
+
+    "cfar radar",
+    "airborne radar tracking",
+    "air defense radar",
+    "airborne early warning radar",
+    "awacs tracking",
+    "uav radar telemetry",
+    "aesa tracking",
+    "cooperative track fusion",
+
+    "nctr radar",
+    "non-cooperative target recognition",
+    "hrrp recognition",
+    "jet engine modulation",
+    "jem radar"
+  ],
+  "db_path": "radar_corpus.db",
+  "csv_index_path": "sources_index.csv",
+  "download_dir": "downloads",
+  "max_documents": 500,
+  "max_storage_mb": 300
+}
