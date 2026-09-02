@@ -1,0 +1,3033 @@
+[
+  {
+    "id": 1,
+    "source_type": "arxiv",
+    "title": "Experimental Evaluation of Moving Target Compensation in High Time-Bandwidth Noise Radar",
+    "url_or_path": "http://arxiv.org/abs/2405.01023v1",
+    "scraped_at": "2026-08-14 12:35:57"
+  },
+  {
+    "id": 2,
+    "source_type": "arxiv",
+    "title": "Intelligent Querying for Target Tracking in Camera Networks using Deep Q-Learning with n-Step Bootstrapping",
+    "url_or_path": "http://arxiv.org/abs/2004.09632v1",
+    "scraped_at": "2026-08-14 12:35:58"
+  },
+  {
+    "id": 3,
+    "source_type": "arxiv",
+    "title": "Automated Ground Truth Estimation For Automotive Radar Tracking Applications With Portable GNSS And IMU Devices",
+    "url_or_path": "http://arxiv.org/abs/1905.11987v2",
+    "scraped_at": "2026-08-14 12:35:58"
+  },
+  {
+    "id": 4,
+    "source_type": "arxiv",
+    "title": "A Deep Automotive Radar Detector using the RaDelft Dataset",
+    "url_or_path": "http://arxiv.org/abs/2406.04723v3",
+    "scraped_at": "2026-08-14 12:35:58"
+  },
+  {
+    "id": 5,
+    "source_type": "arxiv",
+    "title": "POMDP-Driven Cognitive Massive MIMO Radar: Joint Target Detection-Tracking In Unknown Disturbances",
+    "url_or_path": "http://arxiv.org/abs/2410.17967v2",
+    "scraped_at": "2026-08-14 12:35:58"
+  },
+  {
+    "id": 6,
+    "source_type": "arxiv",
+    "title": "Redefining Radar Segmentation: Simultaneous Static-Moving Segmentation and Ego-Motion Estimation using Radar Point Clouds",
+    "url_or_path": "http://arxiv.org/abs/2511.20003v1",
+    "scraped_at": "2026-08-14 12:35:58"
+  },
+  {
+    "id": 7,
+    "source_type": "arxiv",
+    "title": "Tracking mulitple targets with multiple radars using Distributed Auctions",
+    "url_or_path": "http://arxiv.org/abs/2307.16477v1",
+    "scraped_at": "2026-08-14 12:35:58"
+  },
+  {
+    "id": 8,
+    "source_type": "arxiv",
+    "title": "RIS-Enabled Transmitter Design for Joint Radar and Communication",
+    "url_or_path": "http://arxiv.org/abs/2507.06028v1",
+    "scraped_at": "2026-08-14 12:35:58"
+  },
+  {
+    "id": 9,
+    "source_type": "arxiv",
+    "title": "Tracking Multiple Vehicles Using a Variational Radar Model",
+    "url_or_path": "http://arxiv.org/abs/1711.03799v3",
+    "scraped_at": "2026-08-14 12:35:58"
+  },
+  {
+    "id": 10,
+    "source_type": "arxiv",
+    "title": "Advanced Millimeter-Wave Radar System for Real-Time Multiple-Human Tracking and Fall Detection",
+    "url_or_path": "http://arxiv.org/abs/2403.05634v2",
+    "scraped_at": "2026-08-14 12:35:58"
+  },
+  {
+    "id": 11,
+    "source_type": "arxiv",
+    "title": "Towards a Large Language-Vision Question Answering Model for MSTAR Automatic Target Recognition",
+    "url_or_path": "http://arxiv.org/abs/2605.10772v1",
+    "scraped_at": "2026-08-14 12:36:00"
+  },
+  {
+    "id": 12,
+    "source_type": "arxiv",
+    "title": "Semantic-Aware Scene Recognition",
+    "url_or_path": "http://arxiv.org/abs/1909.02410v3",
+    "scraped_at": "2026-08-14 12:36:00"
+  },
+  {
+    "id": 13,
+    "source_type": "arxiv",
+    "title": "Saliency for Fine-grained Object Recognition in Domains with Scarce Training Data",
+    "url_or_path": "http://arxiv.org/abs/1808.00262v3",
+    "scraped_at": "2026-08-14 12:36:00"
+  },
+  {
+    "id": 14,
+    "source_type": "arxiv",
+    "title": "HMM-based Indic Handwritten Word Recognition using Zone Segmentation",
+    "url_or_path": "http://arxiv.org/abs/1708.00227v1",
+    "scraped_at": "2026-08-14 12:36:00"
+  },
+  {
+    "id": 15,
+    "source_type": "arxiv",
+    "title": "Globally-scalable Automated Target Recognition (GATR)",
+    "url_or_path": "http://arxiv.org/abs/2009.04836v1",
+    "scraped_at": "2026-08-14 12:36:00"
+  },
+  {
+    "id": 16,
+    "source_type": "arxiv",
+    "title": "Transfer Learning from Visual Speech Recognition to Mouthing Recognition in German Sign Language",
+    "url_or_path": "http://arxiv.org/abs/2505.13784v2",
+    "scraped_at": "2026-08-14 12:36:00"
+  },
+  {
+    "id": 17,
+    "source_type": "arxiv",
+    "title": "Chinese Herbal Recognition based on Competitive Attentional Fusion of Multi-hierarchies Pyramid Features",
+    "url_or_path": "http://arxiv.org/abs/1812.09648v1",
+    "scraped_at": "2026-08-14 12:36:00"
+  },
+  {
+    "id": 18,
+    "source_type": "arxiv",
+    "title": "Action Transformer: A Self-Attention Model for Short-Time Pose-Based Human Action Recognition",
+    "url_or_path": "http://arxiv.org/abs/2107.00606v6",
+    "scraped_at": "2026-08-14 12:36:00"
+  },
+  {
+    "id": 19,
+    "source_type": "arxiv",
+    "title": "Target search by active particles",
+    "url_or_path": "http://arxiv.org/abs/2311.17854v1",
+    "scraped_at": "2026-08-14 12:36:00"
+  },
+  {
+    "id": 20,
+    "source_type": "arxiv",
+    "title": "Deep Transductive Transfer Learning for Automatic Target Recognition",
+    "url_or_path": "http://arxiv.org/abs/2305.13886v1",
+    "scraped_at": "2026-08-14 12:36:00"
+  },
+  {
+    "id": 21,
+    "source_type": "arxiv",
+    "title": "MAJoRCom: A Dual-Function Radar Communication System Using Index Modulation",
+    "url_or_path": "http://arxiv.org/abs/1909.04223v1",
+    "scraped_at": "2026-08-14 12:36:02"
+  },
+  {
+    "id": 22,
+    "source_type": "arxiv",
+    "title": "Surveillance of Space using Passive Radar and the Murchison Widefield Array",
+    "url_or_path": "http://arxiv.org/abs/1910.04435v1",
+    "scraped_at": "2026-08-14 12:36:02"
+  },
+  {
+    "id": 23,
+    "source_type": "arxiv",
+    "title": "Bayesian modelling of the emission spectrum of the JET Li-BES system",
+    "url_or_path": "http://arxiv.org/abs/1510.01189v1",
+    "scraped_at": "2026-08-14 12:36:02"
+  },
+  {
+    "id": 24,
+    "source_type": "arxiv",
+    "title": "Millimeter-Wave Radar Beamforming with Spatial Path Index Modulation Communications",
+    "url_or_path": "http://arxiv.org/abs/2211.04540v2",
+    "scraped_at": "2026-08-14 12:36:02"
+  },
+  {
+    "id": 25,
+    "source_type": "arxiv",
+    "title": "Towards Transparent and Accurate Plasma State Monitoring at JET",
+    "url_or_path": "http://arxiv.org/abs/2502.12182v1",
+    "scraped_at": "2026-08-14 12:36:02"
+  },
+  {
+    "id": 26,
+    "source_type": "arxiv",
+    "title": "Dimension Scaling SR-Net for Super-Resolution Radar Range Profiles",
+    "url_or_path": "http://arxiv.org/abs/2504.04358v2",
+    "scraped_at": "2026-08-14 12:36:04"
+  },
+  {
+    "id": 27,
+    "source_type": "arxiv",
+    "title": "Deep Learning for Waveform Estimation and Imaging in Passive Radar",
+    "url_or_path": "http://arxiv.org/abs/1809.04768v3",
+    "scraped_at": "2026-08-14 12:36:04"
+  },
+  {
+    "id": 28,
+    "source_type": "arxiv",
+    "title": "TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection",
+    "url_or_path": "http://arxiv.org/abs/2501.17977v1",
+    "scraped_at": "2026-08-14 12:36:04"
+  },
+  {
+    "id": 29,
+    "source_type": "arxiv",
+    "title": "Extended Range Profiling in Stepped-Frequency Radar with Sparse Recovery",
+    "url_or_path": "http://arxiv.org/abs/1009.4969v3",
+    "scraped_at": "2026-08-14 12:36:04"
+  },
+  {
+    "id": 30,
+    "source_type": "arxiv",
+    "title": "Assessing the risk of advanced persistent threats",
+    "url_or_path": "http://arxiv.org/abs/1707.02437v2",
+    "scraped_at": "2026-08-14 12:36:07"
+  },
+  {
+    "id": 31,
+    "source_type": "arxiv",
+    "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+    "url_or_path": "http://arxiv.org/abs/2205.05897v1",
+    "scraped_at": "2026-08-14 12:36:07"
+  },
+  {
+    "id": 32,
+    "source_type": "arxiv",
+    "title": "The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar Dataset",
+    "url_or_path": "http://arxiv.org/abs/1909.01300v3",
+    "scraped_at": "2026-08-14 12:36:07"
+  },
+  {
+    "id": 33,
+    "source_type": "arxiv",
+    "title": "LSTM Framework for Classification of Radar and Communications Signals",
+    "url_or_path": "http://arxiv.org/abs/2305.03192v2",
+    "scraped_at": "2026-08-14 12:36:07"
+  },
+  {
+    "id": 34,
+    "source_type": "arxiv",
+    "title": "Experimental Characterization of a Multifunction X-Band AESA Radar Demonstrator",
+    "url_or_path": "http://arxiv.org/abs/2605.28434v1",
+    "scraped_at": "2026-08-14 12:36:09"
+  },
+  {
+    "id": 35,
+    "source_type": "arxiv",
+    "title": "On Input Formats for Radar Micro-Doppler Signature Processing by Convolutional Neural Networks",
+    "url_or_path": "http://arxiv.org/abs/2404.08291v1",
+    "scraped_at": "2026-08-14 12:36:12"
+  },
+  {
+    "id": 36,
+    "source_type": "arxiv",
+    "title": "Hand Gesture Recognition based on Radar Micro-Doppler Signature Envelopes",
+    "url_or_path": "http://arxiv.org/abs/1811.12467v2",
+    "scraped_at": "2026-08-14 12:36:12"
+  },
+  {
+    "id": 37,
+    "source_type": "arxiv",
+    "title": "Towards Adversarial Denoising of Radar Micro-Doppler Signatures",
+    "url_or_path": "http://arxiv.org/abs/1811.04678v3",
+    "scraped_at": "2026-08-14 12:36:12"
+  },
+  {
+    "id": 38,
+    "source_type": "arxiv",
+    "title": "Bistatic Reflectivity and Micro-Doppler Signatures of Drones for Integrated Communication and Sensing",
+    "url_or_path": "http://arxiv.org/abs/2401.14448v2",
+    "scraped_at": "2026-08-14 12:36:12"
+  },
+  {
+    "id": 39,
+    "source_type": "arxiv",
+    "title": "Extraction of Unaliased High-Frequency Micro-Doppler Signature using FMCW radar",
+    "url_or_path": "http://arxiv.org/abs/2204.09621v1",
+    "scraped_at": "2026-08-14 12:36:12"
+  },
+  {
+    "id": 40,
+    "source_type": "arxiv",
+    "title": "Micro-Doppler Based Human-Robot Classification Using Ensemble and Deep Learning Approaches",
+    "url_or_path": "http://arxiv.org/abs/1711.09177v3",
+    "scraped_at": "2026-08-14 12:36:12"
+  },
+  {
+    "id": 41,
+    "source_type": "arxiv",
+    "title": "Detection of Gait Asymmetry Using Indoor Doppler Radar",
+    "url_or_path": "http://arxiv.org/abs/1902.09977v1",
+    "scraped_at": "2026-08-14 12:36:12"
+  },
+  {
+    "id": 42,
+    "source_type": "arxiv",
+    "title": "RadMamba: Efficient Human Activity Recognition through Radar-based Micro-Doppler-Oriented Mamba State-Space Model",
+    "url_or_path": "http://arxiv.org/abs/2504.12039v3",
+    "scraped_at": "2026-08-14 12:36:12"
+  },
+  {
+    "id": 43,
+    "source_type": "arxiv",
+    "title": "Improving Uncertainty of Deep Learning-based Object Classification on Radar Spectra using Label Smoothing",
+    "url_or_path": "http://arxiv.org/abs/2109.12851v1",
+    "scraped_at": "2026-08-17 11:32:31"
+  },
+  {
+    "id": 44,
+    "source_type": "arxiv",
+    "title": "Radar Classification of Vehicles Using a Ground-Reflection Model",
+    "url_or_path": "http://arxiv.org/abs/2312.11175v1",
+    "scraped_at": "2026-08-17 11:32:31"
+  },
+  {
+    "id": 45,
+    "source_type": "arxiv",
+    "title": "Deep Interference Mitigation and Denoising of Real-World FMCW Radar Signals",
+    "url_or_path": "http://arxiv.org/abs/2012.02529v1",
+    "scraped_at": "2026-08-17 11:32:33"
+  },
+  {
+    "id": 46,
+    "source_type": "arxiv",
+    "title": "An evaluation of the exposure in nadir observation of the JEM-EUSO mission",
+    "url_or_path": "http://arxiv.org/abs/1305.2478v1",
+    "scraped_at": "2026-08-17 11:32:35"
+  },
+  {
+    "id": 47,
+    "source_type": "arxiv",
+    "title": "Variational Temporal Deep Generative Model for Radar HRRP Target Recognition",
+    "url_or_path": "http://arxiv.org/abs/2009.13011v1",
+    "scraped_at": "2026-08-17 11:32:37"
+  },
+  {
+    "id": 48,
+    "source_type": "arxiv",
+    "title": "Concept for an Automatic Annotation of Automotive Radar Data Using AI-segmented Aerial Camera Images",
+    "url_or_path": "http://arxiv.org/abs/2309.00268v1",
+    "scraped_at": "2026-08-17 11:32:40"
+  },
+  {
+    "id": 49,
+    "source_type": "arxiv",
+    "title": "BC-IoDT: Blockchain-based Framework for Authentication in Internet of Drone Things",
+    "url_or_path": "http://arxiv.org/abs/2210.11745v1",
+    "scraped_at": "2026-08-17 11:32:42"
+  },
+  {
+    "id": 50,
+    "source_type": "arxiv",
+    "title": "Advanced Drone Swarm Security by Using Blockchain Governance Game",
+    "url_or_path": "http://arxiv.org/abs/2112.15454v4",
+    "scraped_at": "2026-08-17 11:32:42"
+  },
+  {
+    "id": 51,
+    "source_type": "arxiv",
+    "title": "UAV's Rotor Micro-Doppler Feature Extraction Using Integrated Sensing and Communication Signal: Algorithm Design and Testbed Evaluation",
+    "url_or_path": "http://arxiv.org/abs/2408.16415v1",
+    "scraped_at": "2026-08-17 11:32:44"
+  },
+  {
+    "id": 52,
+    "source_type": "arxiv",
+    "title": "Vision Transformer for Classification of UAV and Helicopters Using Micro-Doppler Spectrograms in Surveillance Radar",
+    "url_or_path": "http://arxiv.org/abs/2512.00374v1",
+    "scraped_at": "2026-08-17 11:32:44"
+  },
+  {
+    "id": 53,
+    "source_type": "arxiv",
+    "title": "UAV-VLRR: Vision-Language Informed NMPC for Rapid Response in UAV Search and Rescue",
+    "url_or_path": "http://arxiv.org/abs/2503.02465v2",
+    "scraped_at": "2026-08-17 11:32:44"
+  },
+  {
+    "id": 54,
+    "source_type": "arxiv",
+    "title": "Capacity Characterization of UAV-Enabled Two-User Broadcast Channel",
+    "url_or_path": "http://arxiv.org/abs/1801.00443v2",
+    "scraped_at": "2026-08-17 11:32:44"
+  },
+  {
+    "id": 55,
+    "source_type": "arxiv",
+    "title": "Repeatedly Energy-Efficient and Fair Service Coverage: UAV Slicing (Proactive UAV Network Slicing for URLLC and Mobile Broadband Service Multiplexing)",
+    "url_or_path": "http://arxiv.org/abs/1912.03600v5",
+    "scraped_at": "2026-08-17 11:32:44"
+  },
+  {
+    "id": 56,
+    "source_type": "arxiv",
+    "title": "Common Throughput Maximization in UAV-Enabled OFDMA Systems with Delay Consideration",
+    "url_or_path": "http://arxiv.org/abs/1801.00444v2",
+    "scraped_at": "2026-08-17 11:32:44"
+  },
+  {
+    "id": 57,
+    "source_type": "arxiv",
+    "title": "Hybrid Offline-Online Design for UAV-Enabled Data Harvesting in Probabilistic LoS Channel",
+    "url_or_path": "http://arxiv.org/abs/1907.06181v2",
+    "scraped_at": "2026-08-17 11:32:44"
+  },
+  {
+    "id": 58,
+    "source_type": "arxiv",
+    "title": "Trajectory and Transmit Power Optimization for IRS-Assisted UAV Communication under Malicious Jamming",
+    "url_or_path": "http://arxiv.org/abs/2201.05271v1",
+    "scraped_at": "2026-08-17 11:32:44"
+  },
+  {
+    "id": 59,
+    "source_type": "arxiv",
+    "title": "Exploiting NOMA for Multi-Beam UAV Communication in Cellular Uplink",
+    "url_or_path": "http://arxiv.org/abs/1810.10839v1",
+    "scraped_at": "2026-08-17 11:32:44"
+  },
+  {
+    "id": 60,
+    "source_type": "arxiv",
+    "title": "IRS-Aided Energy Efficient UAV Communication",
+    "url_or_path": "http://arxiv.org/abs/2108.02406v2",
+    "scraped_at": "2026-08-17 11:32:44"
+  },
+  {
+    "id": 61,
+    "source_type": "arxiv",
+    "title": "Target Identification Using Dictionary Matching of Generalized Polarization Tensors",
+    "url_or_path": "http://arxiv.org/abs/1204.3035v2",
+    "scraped_at": "2026-08-17 11:32:46"
+  },
+  {
+    "id": 62,
+    "source_type": "arxiv",
+    "title": "Subspace Perturbation Analysis for Data-Driven Radar Target Localization",
+    "url_or_path": "http://arxiv.org/abs/2303.08241v2",
+    "scraped_at": "2026-08-17 11:32:46"
+  },
+  {
+    "id": 63,
+    "source_type": "arxiv",
+    "title": "FMCW Radar Height Estimation of Moving Vehicles by Analyzing Multipath Reflections",
+    "url_or_path": "http://arxiv.org/abs/2312.11148v1",
+    "scraped_at": "2026-08-17 11:32:48"
+  },
+  {
+    "id": 64,
+    "source_type": "arxiv",
+    "title": "Human in the Loop: Interactive Passive Automata Learning via Evidence-Driven State-Merging Algorithms",
+    "url_or_path": "http://arxiv.org/abs/1707.09430v1",
+    "scraped_at": "2026-08-17 11:32:48"
+  },
+  {
+    "id": 65,
+    "source_type": "arxiv",
+    "title": "Robust Radar Mounting Angle Estimation in Operational Driving Conditions",
+    "url_or_path": "http://arxiv.org/abs/2511.01431v2",
+    "scraped_at": "2026-08-17 11:32:48"
+  },
+  {
+    "id": 66,
+    "source_type": "arxiv",
+    "title": "Cooperative Radar and Communications Signaling: The Estimation and Information Theory Odd Couple",
+    "url_or_path": "http://arxiv.org/abs/1403.1476v1",
+    "scraped_at": "2026-08-17 11:32:48"
+  },
+  {
+    "id": 67,
+    "source_type": "arxiv",
+    "title": "Microwave Photonic Exciter Unit for Radar System",
+    "url_or_path": "http://arxiv.org/abs/1910.08859v1",
+    "scraped_at": "2026-08-17 11:32:51"
+  },
+  {
+    "id": 68,
+    "source_type": "arxiv",
+    "title": "Distributed High Speed Optical Network for Digital Radar Systems",
+    "url_or_path": "http://arxiv.org/abs/1910.08860v1",
+    "scraped_at": "2026-08-17 11:32:51"
+  },
+  {
+    "id": 69,
+    "source_type": "arxiv",
+    "title": "Antenna Selection for Enhancing Privacy in Radar-Based Vital Sign Monitoring Systems",
+    "url_or_path": "http://arxiv.org/abs/2504.01820v1",
+    "scraped_at": "2026-08-17 11:32:51"
+  },
+  {
+    "id": 70,
+    "source_type": "arxiv",
+    "title": "Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking",
+    "url_or_path": "http://arxiv.org/abs/1609.01775v2",
+    "scraped_at": "2026-08-17 11:39:34"
+  },
+  {
+    "id": 71,
+    "source_type": "arxiv",
+    "title": "A Multi-Target Track-Before-Detect Particle Filter Using Superpositional Data in Non-Gaussian Noise",
+    "url_or_path": "http://arxiv.org/abs/2003.05778v2",
+    "scraped_at": "2026-08-17 11:39:34"
+  },
+  {
+    "id": 72,
+    "source_type": "arxiv",
+    "title": "City-Scale Multi-Camera Vehicle Tracking Guided by Crossroad Zones",
+    "url_or_path": "http://arxiv.org/abs/2105.06623v1",
+    "scraped_at": "2026-08-17 11:39:34"
+  },
+  {
+    "id": 73,
+    "source_type": "arxiv",
+    "title": "Poisson multi-Bernoulli mixture filter with general target-generated measurements and arbitrary clutter",
+    "url_or_path": "http://arxiv.org/abs/2210.12983v2",
+    "scraped_at": "2026-08-17 11:39:34"
+  },
+  {
+    "id": 74,
+    "source_type": "arxiv",
+    "title": "IA-MOT: Instance-Aware Multi-Object Tracking with Motion Consistency",
+    "url_or_path": "http://arxiv.org/abs/2006.13458v1",
+    "scraped_at": "2026-08-17 11:39:34"
+  },
+  {
+    "id": 75,
+    "source_type": "arxiv",
+    "title": "Semi-Supervised Visual Tracking of Marine Animals using Autonomous Underwater Vehicles",
+    "url_or_path": "http://arxiv.org/abs/2302.07344v1",
+    "scraped_at": "2026-08-17 11:39:34"
+  },
+  {
+    "id": 76,
+    "source_type": "arxiv",
+    "title": "Relating Eye-Tracking Measures With Changes In Knowledge on Search Tasks",
+    "url_or_path": "http://arxiv.org/abs/1805.02399v1",
+    "scraped_at": "2026-08-17 11:39:34"
+  },
+  {
+    "id": 77,
+    "source_type": "arxiv",
+    "title": "Multi-Target XGBoostLSS Regression",
+    "url_or_path": "http://arxiv.org/abs/2210.06831v1",
+    "scraped_at": "2026-08-17 11:39:34"
+  },
+  {
+    "id": 78,
+    "source_type": "arxiv",
+    "title": "A Poisson multi-Bernoulli mixture filter for coexisting point and extended targets",
+    "url_or_path": "http://arxiv.org/abs/2011.04464v2",
+    "scraped_at": "2026-08-17 11:39:34"
+  },
+  {
+    "id": 79,
+    "source_type": "arxiv",
+    "title": "Robust Extended Kalman Filter for Land Navigation Using Massive Array of MEMS IMUs",
+    "url_or_path": "http://arxiv.org/abs/2606.29271v1",
+    "scraped_at": "2026-08-17 11:39:36"
+  },
+  {
+    "id": 80,
+    "source_type": "arxiv",
+    "title": "The Geometric Unscented Kalman Filter",
+    "url_or_path": "http://arxiv.org/abs/2009.13079v1",
+    "scraped_at": "2026-08-17 11:39:36"
+  },
+  {
+    "id": 81,
+    "source_type": "arxiv",
+    "title": "Feedback Capacity and a Variant of the Kalman Filter with ARMA Gaussian Noises: Explicit Bounds and Feedback Coding Design",
+    "url_or_path": "http://arxiv.org/abs/2001.03108v6",
+    "scraped_at": "2026-08-17 11:39:36"
+  },
+  {
+    "id": 82,
+    "source_type": "arxiv",
+    "title": "Adaptive Neuro-Fuzzy Extended Kalman Filtering for Robot Localization",
+    "url_or_path": "http://arxiv.org/abs/1004.3267v1",
+    "scraped_at": "2026-08-17 11:39:36"
+  },
+  {
+    "id": 83,
+    "source_type": "arxiv",
+    "title": "Cruise Missile Target Trajectory Movement Prediction based on Optimal 3D Kalman Filter with Firefly Algorithm",
+    "url_or_path": "http://arxiv.org/abs/1807.07006v1",
+    "scraped_at": "2026-08-17 11:39:36"
+  },
+  {
+    "id": 84,
+    "source_type": "arxiv",
+    "title": "Sequential Discrete Kalman Filter for Real-Time State Estimation in Power Distribution Systems: Theory and Implementation",
+    "url_or_path": "http://arxiv.org/abs/1702.08262v5",
+    "scraped_at": "2026-08-17 11:39:36"
+  },
+  {
+    "id": 85,
+    "source_type": "arxiv",
+    "title": "A summary on the UD Kalman Filter",
+    "url_or_path": "http://arxiv.org/abs/2203.06105v2",
+    "scraped_at": "2026-08-17 11:39:36"
+  },
+  {
+    "id": 86,
+    "source_type": "arxiv",
+    "title": "An improved Epidemiological-Unscented Kalman Filter (Hybrid SEIHCRDV-UKF) model for the prediction of COVID-19. Application on real-time data",
+    "url_or_path": "http://arxiv.org/abs/2207.05011v4",
+    "scraped_at": "2026-08-17 11:39:39"
+  },
+  {
+    "id": 87,
+    "source_type": "arxiv",
+    "title": "A higher order correlation unscented Kalman filter",
+    "url_or_path": "http://arxiv.org/abs/1207.4300v1",
+    "scraped_at": "2026-08-17 11:39:39"
+  },
+  {
+    "id": 88,
+    "source_type": "arxiv",
+    "title": "Polynomial Updates for the Unscented Kalman Filter",
+    "url_or_path": "http://arxiv.org/abs/2603.20259v1",
+    "scraped_at": "2026-08-17 11:39:39"
+  },
+  {
+    "id": 89,
+    "source_type": "arxiv",
+    "title": "Quadratic Extended and Unscented Kalman Filter Updates",
+    "url_or_path": "http://arxiv.org/abs/2506.06256v1",
+    "scraped_at": "2026-08-17 11:39:39"
+  },
+  {
+    "id": 90,
+    "source_type": "arxiv",
+    "title": "Two Modifications of the Unscented Kalman Filter that Specialize to the Kalman Filter for Linear Systems",
+    "url_or_path": "http://arxiv.org/abs/2104.00736v1",
+    "scraped_at": "2026-08-17 11:39:39"
+  },
+  {
+    "id": 91,
+    "source_type": "arxiv",
+    "title": "Adaptive Neural Unscented Kalman Filter",
+    "url_or_path": "http://arxiv.org/abs/2503.05490v2",
+    "scraped_at": "2026-08-17 11:39:39"
+  },
+  {
+    "id": 92,
+    "source_type": "arxiv",
+    "title": "Kalman Filter, Unscented Filter and Particle Flow Filter on Non-linear Models",
+    "url_or_path": "http://arxiv.org/abs/1803.08503v1",
+    "scraped_at": "2026-08-17 11:39:39"
+  },
+  {
+    "id": 93,
+    "source_type": "arxiv",
+    "title": "Reply to \"Comment on 'Ensemble Kalman filter with the unscented transform'\"",
+    "url_or_path": "http://arxiv.org/abs/1005.2664v1",
+    "scraped_at": "2026-08-17 11:39:39"
+  },
+  {
+    "id": 94,
+    "source_type": "arxiv",
+    "title": "State estimation with the Interacting Multiple Model (IMM) method",
+    "url_or_path": "http://arxiv.org/abs/2207.04875v1",
+    "scraped_at": "2026-08-17 11:39:41"
+  },
+  {
+    "id": 95,
+    "source_type": "arxiv",
+    "title": "Aircraft Conflict Detection and Avoidance through Interacting Multiple Model (IMM) Estimation",
+    "url_or_path": "http://arxiv.org/abs/2409.13782v1",
+    "scraped_at": "2026-08-17 11:39:41"
+  },
+  {
+    "id": 96,
+    "source_type": "arxiv",
+    "title": "An RNN-based IMM Filter Surrogate",
+    "url_or_path": "http://arxiv.org/abs/1902.01739v2",
+    "scraped_at": "2026-08-17 11:39:41"
+  },
+  {
+    "id": 97,
+    "source_type": "arxiv",
+    "title": "IMM-MOT: A Novel 3D Multi-object Tracking Framework with Interacting Multiple Model Filter",
+    "url_or_path": "http://arxiv.org/abs/2502.09672v1",
+    "scraped_at": "2026-08-17 11:39:41"
+  },
+  {
+    "id": 98,
+    "source_type": "arxiv",
+    "title": "One-Shot Reinforcement Learning for Robot Navigation with Interactive Replay",
+    "url_or_path": "http://arxiv.org/abs/1711.10137v2",
+    "scraped_at": "2026-08-17 11:39:41"
+  },
+  {
+    "id": 99,
+    "source_type": "arxiv",
+    "title": "One Homography is All You Need: IMM-based Joint Homography and Multiple Object State Estimation",
+    "url_or_path": "http://arxiv.org/abs/2409.02562v4",
+    "scraped_at": "2026-08-17 11:39:41"
+  },
+  {
+    "id": 100,
+    "source_type": "arxiv",
+    "title": "A Tutorial for Evaluating Cure Model Appropriateness",
+    "url_or_path": "http://arxiv.org/abs/2605.04999v2",
+    "scraped_at": "2026-08-17 11:39:41"
+  },
+  {
+    "id": 101,
+    "source_type": "arxiv",
+    "title": "SAFE-IMM: Robust and Lightweight Radar-Based Object Tracking on Mobile Platforms",
+    "url_or_path": "http://arxiv.org/abs/2511.20294v3",
+    "scraped_at": "2026-08-17 11:39:41"
+  },
+  {
+    "id": 102,
+    "source_type": "arxiv",
+    "title": "Estimation & Recognition under Perspective of Random-Fuzzy Dual Interpretation of Unknown Quantity: with Demonstration of IMM Filter",
+    "url_or_path": "http://arxiv.org/abs/2110.10572v3",
+    "scraped_at": "2026-08-17 11:39:41"
+  },
+  {
+    "id": 103,
+    "source_type": "arxiv",
+    "title": "An Issue in the Martingale Analysis of the Influence Maximization Algorithm IMM",
+    "url_or_path": "http://arxiv.org/abs/1808.09363v3",
+    "scraped_at": "2026-08-17 11:39:41"
+  },
+  {
+    "id": 104,
+    "source_type": "arxiv",
+    "title": "Byzantine-Resilient SGD in High Dimensions on Heterogeneous Data",
+    "url_or_path": "http://arxiv.org/abs/2005.07866v1",
+    "scraped_at": "2026-08-17 11:39:44"
+  },
+  {
+    "id": 105,
+    "source_type": "arxiv",
+    "title": "Data Encoding for Byzantine-Resilient Distributed Optimization",
+    "url_or_path": "http://arxiv.org/abs/1907.02664v2",
+    "scraped_at": "2026-08-17 11:39:44"
+  },
+  {
+    "id": 106,
+    "source_type": "arxiv",
+    "title": "Constraints on dark energy from H II starburst galaxy apparent magnitude versus redshift data",
+    "url_or_path": "http://arxiv.org/abs/1110.5626v1",
+    "scraped_at": "2026-08-17 11:39:44"
+  },
+  {
+    "id": 107,
+    "source_type": "arxiv",
+    "title": "TerraGen: A Unified Multi-Task Layout Generation Framework for Remote Sensing Data Augmentation",
+    "url_or_path": "http://arxiv.org/abs/2510.21391v1",
+    "scraped_at": "2026-08-17 11:39:44"
+  },
+  {
+    "id": 108,
+    "source_type": "arxiv",
+    "title": "AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation",
+    "url_or_path": "http://arxiv.org/abs/2411.15497v3",
+    "scraped_at": "2026-08-17 11:39:44"
+  },
+  {
+    "id": 109,
+    "source_type": "arxiv",
+    "title": "A 20 Gbps Data Transmitting ASIC with PAM4 for Particle Physics Experiments",
+    "url_or_path": "http://arxiv.org/abs/2010.16064v1",
+    "scraped_at": "2026-08-17 11:39:44"
+  },
+  {
+    "id": 110,
+    "source_type": "arxiv",
+    "title": "Small Data Explainer -- The impact of small data methods in everyday life",
+    "url_or_path": "http://arxiv.org/abs/2507.11773v2",
+    "scraped_at": "2026-08-17 11:39:44"
+  },
+  {
+    "id": 111,
+    "source_type": "arxiv",
+    "title": "Joint Probabilistic Data Association-Feedback Particle Filter for Multiple Target Tracking Applications",
+    "url_or_path": "http://arxiv.org/abs/1303.1214v1",
+    "scraped_at": "2026-08-17 11:39:44"
+  },
+  {
+    "id": 112,
+    "source_type": "arxiv",
+    "title": "Track Coalescence and Repulsion: MHT, JPDA, and BP",
+    "url_or_path": "http://arxiv.org/abs/2109.01523v1",
+    "scraped_at": "2026-08-17 11:39:44"
+  },
+  {
+    "id": 113,
+    "source_type": "arxiv",
+    "title": "An Application of Computable Distributions to the Semantics of Probabilistic Programs",
+    "url_or_path": "http://arxiv.org/abs/1806.07966v2",
+    "scraped_at": "2026-08-17 11:39:44"
+  },
+  {
+    "id": 114,
+    "source_type": "arxiv",
+    "title": "Track Coalescence and Repulsion in Multitarget Tracking: An Analysis of MHT, JPDA, and Belief Propagation Methods",
+    "url_or_path": "http://arxiv.org/abs/2308.06326v2",
+    "scraped_at": "2026-08-17 11:39:46"
+  },
+  {
+    "id": 115,
+    "source_type": "arxiv",
+    "title": "Simulation of quantum annealing on a semiconducting cQED device for Multiple Hypothesis Tracking (MHT) benchmark",
+    "url_or_path": "http://arxiv.org/abs/2604.15213v1",
+    "scraped_at": "2026-08-17 11:39:46"
+  },
+  {
+    "id": 116,
+    "source_type": "arxiv",
+    "title": "Quasi-Dense Similarity Learning for Multiple Object Tracking",
+    "url_or_path": "http://arxiv.org/abs/2006.06664v4",
+    "scraped_at": "2026-08-17 11:39:46"
+  },
+  {
+    "id": 117,
+    "source_type": "arxiv",
+    "title": "Multiple Object Tracking Challenge Technical Report for Team MT_IoT",
+    "url_or_path": "http://arxiv.org/abs/2212.03586v1",
+    "scraped_at": "2026-08-17 11:39:46"
+  },
+  {
+    "id": 118,
+    "source_type": "arxiv",
+    "title": "A Library for Implementing the Multiple Hypothesis Tracking Algorithm",
+    "url_or_path": "http://arxiv.org/abs/1106.2263v1",
+    "scraped_at": "2026-08-17 11:39:46"
+  },
+  {
+    "id": 119,
+    "source_type": "arxiv",
+    "title": "Multiple Hypothesis Tracking Algorithm for Multi-Target Multi-Camera Tracking with Disjoint Views",
+    "url_or_path": "http://arxiv.org/abs/1901.08787v1",
+    "scraped_at": "2026-08-17 11:39:46"
+  },
+  {
+    "id": 120,
+    "source_type": "arxiv",
+    "title": "Multiple Hypothesis Hypergraph Tracking for Posture Identification in Embryonic Caenorhabditis elegans",
+    "url_or_path": "http://arxiv.org/abs/2111.06425v2",
+    "scraped_at": "2026-08-17 11:39:46"
+  },
+  {
+    "id": 121,
+    "source_type": "arxiv",
+    "title": "A BP Method for Track-Before-Detect",
+    "url_or_path": "http://arxiv.org/abs/2307.00765v1",
+    "scraped_at": "2026-08-17 11:39:48"
+  },
+  {
+    "id": 122,
+    "source_type": "arxiv",
+    "title": "Coherent Track Before Detect: Detection via simultaneous trajectory estimation and long time integration",
+    "url_or_path": "http://arxiv.org/abs/1709.00310v4",
+    "scraped_at": "2026-08-17 11:39:48"
+  },
+  {
+    "id": 123,
+    "source_type": "arxiv",
+    "title": "A Scalable Track-Before-Detect Method With Poisson/Multi-Bernoulli Model",
+    "url_or_path": "http://arxiv.org/abs/2109.01490v1",
+    "scraped_at": "2026-08-17 11:39:48"
+  },
+  {
+    "id": 124,
+    "source_type": "arxiv",
+    "title": "Riemann-Langevin Particle Filtering in Track-Before-Detect",
+    "url_or_path": "http://arxiv.org/abs/1705.00546v2",
+    "scraped_at": "2026-08-17 11:39:48"
+  },
+  {
+    "id": 125,
+    "source_type": "arxiv",
+    "title": "Message Passing for Track-Before-Detect",
+    "url_or_path": "http://arxiv.org/abs/2506.18177v3",
+    "scraped_at": "2026-08-17 11:39:48"
+  },
+  {
+    "id": 126,
+    "source_type": "arxiv",
+    "title": "A Scalable Hybrid Track-Before-Detect Tracking System: Application to Coastal Maritime Radar Surveillance",
+    "url_or_path": "http://arxiv.org/abs/2508.16169v1",
+    "scraped_at": "2026-08-17 11:39:48"
+  },
+  {
+    "id": 127,
+    "source_type": "arxiv",
+    "title": "Track-before-detect Algorithm based on Cost-reference Particle Filter Bank for Weak Target Detection",
+    "url_or_path": "http://arxiv.org/abs/2309.13922v1",
+    "scraped_at": "2026-08-17 11:39:48"
+  },
+  {
+    "id": 128,
+    "source_type": "arxiv",
+    "title": "A Track-Before-Detect Approach to Multi-Target Tracking on Automotive Radar Sensor Data",
+    "url_or_path": "http://arxiv.org/abs/2006.02755v2",
+    "scraped_at": "2026-08-17 11:39:48"
+  },
+  {
+    "id": 129,
+    "source_type": "arxiv",
+    "title": "Track Before Detect of Low SNR Objects in a Sequence of Image Frames Using Particle Filter",
+    "url_or_path": "http://arxiv.org/abs/2212.13020v4",
+    "scraped_at": "2026-08-17 11:39:48"
+  },
+  {
+    "id": 130,
+    "source_type": "arxiv",
+    "title": "Approximations and adjoints in homotopy categories",
+    "url_or_path": "http://arxiv.org/abs/1005.0209v2",
+    "scraped_at": "2026-08-17 11:39:50"
+  },
+  {
+    "id": 131,
+    "source_type": "arxiv",
+    "title": "On Limits and Colimits Of Comodules over a Coalgebra in a Tensor Category",
+    "url_or_path": "http://arxiv.org/abs/1309.2835v2",
+    "scraped_at": "2026-08-17 11:39:50"
+  },
+  {
+    "id": 132,
+    "source_type": "arxiv",
+    "title": "Oriented Category Theory",
+    "url_or_path": "http://arxiv.org/abs/2510.10504v2",
+    "scraped_at": "2026-08-17 11:39:50"
+  },
+  {
+    "id": 133,
+    "source_type": "arxiv",
+    "title": "Drazin Inverses in Categories",
+    "url_or_path": "http://arxiv.org/abs/2402.18226v3",
+    "scraped_at": "2026-08-17 11:39:50"
+  },
+  {
+    "id": 134,
+    "source_type": "arxiv",
+    "title": "Enriched Reedy categories",
+    "url_or_path": "http://arxiv.org/abs/math/0612137v2",
+    "scraped_at": "2026-08-17 11:39:50"
+  },
+  {
+    "id": 135,
+    "source_type": "arxiv",
+    "title": "Dagger $n$-categories",
+    "url_or_path": "http://arxiv.org/abs/2403.01651v3",
+    "scraped_at": "2026-08-17 11:39:50"
+  },
+  {
+    "id": 136,
+    "source_type": "arxiv",
+    "title": "Hilbert $*$-categories: Where limits in analysis and category theory meet",
+    "url_or_path": "http://arxiv.org/abs/2505.17432v4",
+    "scraped_at": "2026-08-17 11:39:50"
+  },
+  {
+    "id": 137,
+    "source_type": "arxiv",
+    "title": "Cauchy convergence in V-normed categories",
+    "url_or_path": "http://arxiv.org/abs/2404.09032v4",
+    "scraped_at": "2026-08-17 11:39:50"
+  },
+  {
+    "id": 138,
+    "source_type": "arxiv",
+    "title": "Unified Functorial Signal Representation II: Category action, Base Hierarchy, Geometries as Base structured categories",
+    "url_or_path": "http://arxiv.org/abs/1611.02437v2",
+    "scraped_at": "2026-08-17 11:39:50"
+  },
+  {
+    "id": 139,
+    "source_type": "arxiv",
+    "title": "Composable Uncertainty in Symmetric Monoidal Categories for Design Problems (Extended Version)",
+    "url_or_path": "http://arxiv.org/abs/2503.17274v3",
+    "scraped_at": "2026-08-17 11:39:50"
+  },
+  {
+    "id": 140,
+    "source_type": "arxiv",
+    "title": "CAT: CRF-based ASR Toolkit",
+    "url_or_path": "http://arxiv.org/abs/1911.08747v1",
+    "scraped_at": "2026-08-17 11:39:52"
+  },
+  {
+    "id": 141,
+    "source_type": "arxiv",
+    "title": "Hunting for the Quantum Cheshire Cat",
+    "url_or_path": "http://arxiv.org/abs/1205.3755v2",
+    "scraped_at": "2026-08-17 11:39:52"
+  },
+  {
+    "id": 142,
+    "source_type": "arxiv",
+    "title": "Path integral approach on Schrodinger's cat",
+    "url_or_path": "http://arxiv.org/abs/1310.8020v5",
+    "scraped_at": "2026-08-17 11:39:52"
+  },
+  {
+    "id": 143,
+    "source_type": "arxiv",
+    "title": "Convergence and collapsing of CAT$(0)$-lattices",
+    "url_or_path": "http://arxiv.org/abs/2405.01595v1",
+    "scraped_at": "2026-08-17 11:39:52"
+  },
+  {
+    "id": 144,
+    "source_type": "arxiv",
+    "title": "Ergodic and synthetic Koopman analyses of cat maps onto classical 2-tori",
+    "url_or_path": "http://arxiv.org/abs/2505.10293v4",
+    "scraped_at": "2026-08-17 11:39:52"
+  },
+  {
+    "id": 145,
+    "source_type": "arxiv",
+    "title": "CaT: Balanced Continual Graph Learning with Graph Condensation",
+    "url_or_path": "http://arxiv.org/abs/2309.09455v2",
+    "scraped_at": "2026-08-17 11:39:52"
+  },
+  {
+    "id": 146,
+    "source_type": "arxiv",
+    "title": "Finite-time quantum-to-classical transition for a Schroedinger-cat state",
+    "url_or_path": "http://arxiv.org/abs/1103.4150v4",
+    "scraped_at": "2026-08-17 11:39:52"
+  },
+  {
+    "id": 147,
+    "source_type": "arxiv",
+    "title": "Flying-cat parity checks for quantum error correction",
+    "url_or_path": "http://arxiv.org/abs/2402.17001v2",
+    "scraped_at": "2026-08-17 11:39:52"
+  },
+  {
+    "id": 148,
+    "source_type": "arxiv",
+    "title": "On the semi-direct product structure of CAT(0) groups",
+    "url_or_path": "http://arxiv.org/abs/0912.0059v6",
+    "scraped_at": "2026-08-17 11:39:52"
+  },
+  {
+    "id": 149,
+    "source_type": "arxiv",
+    "title": "Minimal displacement set for CAT(0) cubical complexes",
+    "url_or_path": "http://arxiv.org/abs/2505.23318v2",
+    "scraped_at": "2026-08-17 11:39:52"
+  },
+  {
+    "id": 150,
+    "source_type": "arxiv",
+    "title": "On the Sr I 4607 A Hanle depolarization signals in the quiet Sun",
+    "url_or_path": "http://arxiv.org/abs/astro-ph/0504339v1",
+    "scraped_at": "2026-08-17 11:39:54"
+  },
+  {
+    "id": 151,
+    "source_type": "arxiv",
+    "title": "Kronecker STAP and SAR GMTI",
+    "url_or_path": "http://arxiv.org/abs/1604.03622v1",
+    "scraped_at": "2026-08-17 11:39:54"
+  },
+  {
+    "id": 152,
+    "source_type": "arxiv",
+    "title": "Spatial variations of the Sr i 4607 Å scattering polarization peak",
+    "url_or_path": "http://arxiv.org/abs/1803.03531v1",
+    "scraped_at": "2026-08-17 11:39:54"
+  },
+  {
+    "id": 153,
+    "source_type": "arxiv",
+    "title": "Intent Inference and Syntactic Tracking with GMTI Measurements",
+    "url_or_path": "http://arxiv.org/abs/1104.4376v1",
+    "scraped_at": "2026-08-17 11:39:55"
+  },
+  {
+    "id": 154,
+    "source_type": "arxiv",
+    "title": "The impact of limited time resolution on the forward-scattering polarization in the solar Sr I 4607 Å line",
+    "url_or_path": "http://arxiv.org/abs/2101.08485v1",
+    "scraped_at": "2026-08-17 11:39:55"
+  },
+  {
+    "id": 155,
+    "source_type": "arxiv",
+    "title": "Comparing Observed with Simulated Solar Disk Center Scattering Polarization in the Sr I 4607 Å line",
+    "url_or_path": "http://arxiv.org/abs/2402.04736v1",
+    "scraped_at": "2026-08-17 11:39:55"
+  },
+  {
+    "id": 156,
+    "source_type": "arxiv",
+    "title": "Observational insights into Sr I 4607 Å scattering polarization with DKIST/ViSP",
+    "url_or_path": "http://arxiv.org/abs/2603.01854v1",
+    "scraped_at": "2026-08-17 11:39:55"
+  },
+  {
+    "id": 157,
+    "source_type": "arxiv",
+    "title": "The Scattering Polarization of the Sr I 4607 ÅLine at the Diffraction Limit Resolution of a 1-m Telescope",
+    "url_or_path": "http://arxiv.org/abs/0706.2386v1",
+    "scraped_at": "2026-08-17 11:39:55"
+  },
+  {
+    "id": 158,
+    "source_type": "arxiv",
+    "title": "Solar disk center shows scattering polarization in the Sr I 4607 Å line",
+    "url_or_path": "http://arxiv.org/abs/2004.03679v2",
+    "scraped_at": "2026-08-17 11:39:55"
+  },
+  {
+    "id": 159,
+    "source_type": "arxiv",
+    "title": "A novel investigation of the small-scale magnetic activity of the quiet Sun via the Hanle effect in the Sr I 4607 Å line",
+    "url_or_path": "http://arxiv.org/abs/1806.07293v1",
+    "scraped_at": "2026-08-17 11:39:55"
+  },
+  {
+    "id": 160,
+    "source_type": "arxiv",
+    "title": "Undesirable effects of covariance matrix techniques for error analysis",
+    "url_or_path": "http://arxiv.org/abs/hep-lat/9305014v3",
+    "scraped_at": "2026-08-17 11:39:59"
+  },
+  {
+    "id": 161,
+    "source_type": "arxiv",
+    "title": "Low-Rank Structured Clutter Covariance Matrix Estimation for Airborne STAP Radar",
+    "url_or_path": "http://arxiv.org/abs/2301.11528v1",
+    "scraped_at": "2026-08-17 11:39:59"
+  },
+  {
+    "id": 162,
+    "source_type": "arxiv",
+    "title": "Radial velocity follow-up of CoRoT transiting exoplanets",
+    "url_or_path": "http://arxiv.org/abs/1101.0463v1",
+    "scraped_at": "2026-08-17 11:40:01"
+  },
+  {
+    "id": 163,
+    "source_type": "arxiv",
+    "title": "The missing radial velocities of Gaia: blind predictions for DR3",
+    "url_or_path": "http://arxiv.org/abs/2206.04102v2",
+    "scraped_at": "2026-08-17 11:40:01"
+  },
+  {
+    "id": 164,
+    "source_type": "arxiv",
+    "title": "Friends of Hot Jupiters I: A Radial Velocity Search for Massive, Long-Period Companions to Close-In Gas Giant Planets",
+    "url_or_path": "http://arxiv.org/abs/1312.2954v2",
+    "scraped_at": "2026-08-17 11:40:01"
+  },
+  {
+    "id": 165,
+    "source_type": "arxiv",
+    "title": "Ultrafast ultrasound coded vector Doppler imaging of blood flow velocity and resistivity",
+    "url_or_path": "http://arxiv.org/abs/2504.17251v1",
+    "scraped_at": "2026-08-17 11:40:01"
+  },
+  {
+    "id": 166,
+    "source_type": "arxiv",
+    "title": "Problems with \"GR without SR: A gravitational-domain description of first-order Doppler effects\" (gr-qc/9807084)",
+    "url_or_path": "http://arxiv.org/abs/physics/0102082v1",
+    "scraped_at": "2026-08-17 11:40:01"
+  },
+  {
+    "id": 167,
+    "source_type": "arxiv",
+    "title": "An Automatic Guidance and Quality Assessment System for Doppler Imaging of Umbilical Artery",
+    "url_or_path": "http://arxiv.org/abs/2304.05463v2",
+    "scraped_at": "2026-08-17 11:40:01"
+  },
+  {
+    "id": 168,
+    "source_type": "arxiv",
+    "title": "A New Dynamical Mass Measurement for the Virgo Cluster using the Radial Velocity Profile of the Filament Galaxies",
+    "url_or_path": "http://arxiv.org/abs/1501.07064v2",
+    "scraped_at": "2026-08-17 11:40:01"
+  },
+  {
+    "id": 169,
+    "source_type": "arxiv",
+    "title": "The 1D Relativistic Doppler Formula is an Incorrect Approximation in Precise Radial Velocity Work",
+    "url_or_path": "http://arxiv.org/abs/1812.06748v3",
+    "scraped_at": "2026-08-17 11:40:01"
+  },
+  {
+    "id": 170,
+    "source_type": "arxiv",
+    "title": "Modeling Doppler Shifts in Radial-Velocity Data with Deep Learning toward Earth-mass Exoplanet Detection",
+    "url_or_path": "http://arxiv.org/abs/2606.18464v1",
+    "scraped_at": "2026-08-17 11:40:01"
+  },
+  {
+    "id": 171,
+    "source_type": "arxiv",
+    "title": "A comprehensive radial velocity error budget for next generation Doppler spectrometers",
+    "url_or_path": "http://arxiv.org/abs/1607.05634v1",
+    "scraped_at": "2026-08-17 11:40:01"
+  },
+  {
+    "id": 172,
+    "source_type": "arxiv",
+    "title": "Compact-Range RCS Measurements and Modeling of Small Drones at 15 GHz and 25 GHz",
+    "url_or_path": "http://arxiv.org/abs/1911.05926v1",
+    "scraped_at": "2026-08-17 11:40:03"
+  },
+  {
+    "id": 173,
+    "source_type": "arxiv",
+    "title": "4D Radar Gaussian Modeling and Scan Matching with RCS",
+    "url_or_path": "http://arxiv.org/abs/2604.14868v1",
+    "scraped_at": "2026-08-17 11:40:03"
+  },
+  {
+    "id": 174,
+    "source_type": "arxiv",
+    "title": "Polarimetric Radar Cross-Sections of Pedestrians at Automotive Radar Frequencies",
+    "url_or_path": "http://arxiv.org/abs/1910.13706v1",
+    "scraped_at": "2026-08-17 11:40:03"
+  },
+  {
+    "id": 175,
+    "source_type": "arxiv",
+    "title": "Handbook of LHC Higgs Cross Sections: 1. Inclusive Observables",
+    "url_or_path": "http://arxiv.org/abs/1101.0593v3",
+    "scraped_at": "2026-08-17 11:40:03"
+  },
+  {
+    "id": 176,
+    "source_type": "arxiv",
+    "title": "Design and Experimental Validation of a Multiband Cross-Polarization Conversion (CPC) Metasurface for Radar Cross Section (RCS) Reduction",
+    "url_or_path": "http://arxiv.org/abs/2607.10687v1",
+    "scraped_at": "2026-08-17 11:40:04"
+  },
+  {
+    "id": 177,
+    "source_type": "arxiv",
+    "title": "Handbook of LHC Higgs Cross Sections: 2. Differential Distributions",
+    "url_or_path": "http://arxiv.org/abs/1201.3084v1",
+    "scraped_at": "2026-08-17 11:40:04"
+  },
+  {
+    "id": 178,
+    "source_type": "arxiv",
+    "title": "Learning to Detect with Constant False Alarm Rate",
+    "url_or_path": "http://arxiv.org/abs/2206.05747v1",
+    "scraped_at": "2026-08-17 11:40:06"
+  },
+  {
+    "id": 179,
+    "source_type": "arxiv",
+    "title": "Extension of the Geometric Mean Constant False Alarm Rate Detector to Multiple Pulses",
+    "url_or_path": "http://arxiv.org/abs/1901.00250v1",
+    "scraped_at": "2026-08-17 11:40:06"
+  },
+  {
+    "id": 180,
+    "source_type": "arxiv",
+    "title": "CFARnet: deep learning for target detection with constant false alarm rate",
+    "url_or_path": "http://arxiv.org/abs/2208.02474v3",
+    "scraped_at": "2026-08-17 11:40:06"
+  },
+  {
+    "id": 181,
+    "source_type": "arxiv",
+    "title": "A Novel Radar Constant False Alarm Rate Detection Algorithm Based on VAMP Deep Unfolding",
+    "url_or_path": "http://arxiv.org/abs/2504.09907v1",
+    "scraped_at": "2026-08-17 11:40:06"
+  },
+  {
+    "id": 182,
+    "source_type": "arxiv",
+    "title": "Impact of covariance mismatched training samples on constant false alarm rate detectors",
+    "url_or_path": "http://arxiv.org/abs/2012.01182v1",
+    "scraped_at": "2026-08-17 11:40:06"
+  },
+  {
+    "id": 183,
+    "source_type": "arxiv",
+    "title": "A Controlled Experiment on the Impact of Intrusion Detection False Alarm Rate on Analyst Performance",
+    "url_or_path": "http://arxiv.org/abs/2307.07023v1",
+    "scraped_at": "2026-08-17 11:40:06"
+  },
+  {
+    "id": 184,
+    "source_type": "arxiv",
+    "title": "Wilcoxon Nonparametric CFAR Scheme for Ship Detection in SAR Image",
+    "url_or_path": "http://arxiv.org/abs/2402.18579v2",
+    "scraped_at": "2026-08-17 11:40:06"
+  },
+  {
+    "id": 185,
+    "source_type": "arxiv",
+    "title": "CFAR based NOMP for Line Spectral Estimation and Detection",
+    "url_or_path": "http://arxiv.org/abs/2210.10302v1",
+    "scraped_at": "2026-08-17 11:40:06"
+  },
+  {
+    "id": 186,
+    "source_type": "arxiv",
+    "title": "BFAR-Bounded False Alarm Rate detector for improved radar odometry estimation",
+    "url_or_path": "http://arxiv.org/abs/2109.09669v1",
+    "scraped_at": "2026-08-17 11:40:06"
+  },
+  {
+    "id": 187,
+    "source_type": "arxiv",
+    "title": "Compressive Cyclostationary Spectrum Sensing with a Constant False Alarm Rate",
+    "url_or_path": "http://arxiv.org/abs/1610.04027v1",
+    "scraped_at": "2026-08-17 11:40:06"
+  },
+  {
+    "id": 188,
+    "source_type": "arxiv",
+    "title": "Recurrent Graph Convolutional Networks for Spatiotemporal Prediction of Snow Accumulation Using Airborne Radar",
+    "url_or_path": "http://arxiv.org/abs/2302.00817v2",
+    "scraped_at": "2026-08-17 11:40:08"
+  },
+  {
+    "id": 189,
+    "source_type": "arxiv",
+    "title": "Polarization diversity and equalization of frequency selective channels in telemetry environment for 16APSK",
+    "url_or_path": "http://arxiv.org/abs/1909.06001v1",
+    "scraped_at": "2026-08-17 11:40:10"
+  },
+  {
+    "id": 190,
+    "source_type": "arxiv",
+    "title": "SGDFuse: SAM-Guided Diffusion Model for High-Fidelity Infrared and Visible Image Fusion",
+    "url_or_path": "http://arxiv.org/abs/2508.05264v6",
+    "scraped_at": "2026-08-17 11:40:14"
+  },
+  {
+    "id": 191,
+    "source_type": "arxiv",
+    "title": "Challenges and opportunities for AI to help deliver fusion energy",
+    "url_or_path": "http://arxiv.org/abs/2603.25777v2",
+    "scraped_at": "2026-08-17 11:40:14"
+  },
+  {
+    "id": 192,
+    "source_type": "arxiv",
+    "title": "InMyFace: Inertial and Mechanomyography-Based Sensor Fusion for Wearable Facial Activity Recognition",
+    "url_or_path": "http://arxiv.org/abs/2302.04024v1",
+    "scraped_at": "2026-08-17 11:40:14"
+  },
+  {
+    "id": 193,
+    "source_type": "arxiv",
+    "title": "Information Fusion in the Immune System",
+    "url_or_path": "http://arxiv.org/abs/1003.1598v1",
+    "scraped_at": "2026-08-17 11:40:14"
+  },
+  {
+    "id": 194,
+    "source_type": "arxiv",
+    "title": "Retrospective of the ARPA-E ALPHA fusion program",
+    "url_or_path": "http://arxiv.org/abs/1907.09921v2",
+    "scraped_at": "2026-08-17 11:40:14"
+  },
+  {
+    "id": 195,
+    "source_type": "arxiv",
+    "title": "Arithmetic Average Density Fusion -- Part I: Some Statistic and Information-theoretic Results",
+    "url_or_path": "http://arxiv.org/abs/2110.01440v4",
+    "scraped_at": "2026-08-17 11:40:14"
+  },
+  {
+    "id": 196,
+    "source_type": "arxiv",
+    "title": "Track-To-Track Association for Fusion of Dimension-Reduced Estimates",
+    "url_or_path": "http://arxiv.org/abs/2303.00611v2",
+    "scraped_at": "2026-08-17 11:40:14"
+  },
+  {
+    "id": 197,
+    "source_type": "arxiv",
+    "title": "Correlation length scalings in fusion edge plasma turbulence computations",
+    "url_or_path": "http://arxiv.org/abs/1109.1997v1",
+    "scraped_at": "2026-08-17 11:40:14"
+  },
+  {
+    "id": 198,
+    "source_type": "arxiv",
+    "title": "How much laser power can propagate through fusion plasma?",
+    "url_or_path": "http://arxiv.org/abs/physics/0512271v3",
+    "scraped_at": "2026-08-17 11:40:14"
+  },
+  {
+    "id": 199,
+    "source_type": "arxiv",
+    "title": "Conceptual design study for heat exhaust management in the ARC fusion pilot plant",
+    "url_or_path": "http://arxiv.org/abs/1809.10555v1",
+    "scraped_at": "2026-08-17 11:40:14"
+  },
+  {
+    "id": 200,
+    "source_type": "scholar",
+    "title": "Improved Joint Probabilistic Data Association (JPDA) Filter Using Motion Feature for Multiple Maneuvering Targets in Uncertain Tracking Situations",
+    "url_or_path": "https://www.semanticscholar.org/paper/71285b38ad909dfa7c15f453781d98611dbbdb31",
+    "scraped_at": "2026-08-17 11:40:29"
+  },
+  {
+    "id": 201,
+    "source_type": "scholar",
+    "title": "A Maritime Multitarget Tracking Method With Non-Gaussian Measurement Noises Based on Joint Probabilistic Data Association",
+    "url_or_path": "https://www.semanticscholar.org/paper/cf4ddc670c28aa2e25d01532c4e0ec0c6dd11562",
+    "scraped_at": "2026-08-17 11:40:29"
+  },
+  {
+    "id": 202,
+    "source_type": "scholar",
+    "title": "Sonar tracking of multiple targets using joint probabilistic data association",
+    "url_or_path": "https://www.semanticscholar.org/paper/34f552c32e14d48a0d8aeba27c158897437e273e",
+    "scraped_at": "2026-08-17 11:40:29"
+  },
+  {
+    "id": 203,
+    "source_type": "scholar",
+    "title": "Class-Aided Joint Probabilistic Data Association for Radar Multi-Target Tracking",
+    "url_or_path": "https://www.semanticscholar.org/paper/715cb7bc8b6f65f9a3ec2c6bf3c32306175c8db7",
+    "scraped_at": "2026-08-17 11:40:29"
+  },
+  {
+    "id": 204,
+    "source_type": "scholar",
+    "title": "Robust Visual Localization System With HD Map Based on Joint Probabilistic Data Association",
+    "url_or_path": "https://www.semanticscholar.org/paper/90a660e3ed0cdecfd70619387f2bad623d7f6b49",
+    "scraped_at": "2026-08-17 11:40:29"
+  },
+  {
+    "id": 205,
+    "source_type": "scholar",
+    "title": "Cauchy–Schwarz Divergence-Based Set Joint Probabilistic Data Association Filter for Tracking Multiple Objects in Cluttered Environment",
+    "url_or_path": "https://www.semanticscholar.org/paper/25009ec19000db03c76e15509b37528a226e3ecc",
+    "scraped_at": "2026-08-17 11:40:29"
+  },
+  {
+    "id": 206,
+    "source_type": "scholar",
+    "title": "An Intelligent Particle Filter Based Joint Probabilistic Data Association Algorithm for Long-Duration Multi-Target Tracking in Clutter Environment",
+    "url_or_path": "https://www.semanticscholar.org/paper/2a2ae4eb88300b954570f45e4df518364b8efc88",
+    "scraped_at": "2026-08-17 11:40:29"
+  },
+  {
+    "id": 207,
+    "source_type": "scholar",
+    "title": "Enhancing Joint Probabilistic Data Association with LSTM-Based Clutter Filtering for Improved Radar Target Tracking",
+    "url_or_path": "https://www.semanticscholar.org/paper/ed3ca299daa08dc1e1dfb0883b1365e10eea231c",
+    "scraped_at": "2026-08-17 11:40:29"
+  },
+  {
+    "id": 208,
+    "source_type": "scholar",
+    "title": "New joint probabilistic data association algorithm based on variational Bayesian adaptive moment estimation",
+    "url_or_path": "https://www.semanticscholar.org/paper/1484d8ff2bbff6333bd438af3202806b679fafbf",
+    "scraped_at": "2026-08-17 11:40:29"
+  },
+  {
+    "id": 209,
+    "source_type": "scholar",
+    "title": "A Sequential Target Existence Statistic for Joint Probabilistic Data Association",
+    "url_or_path": "https://www.semanticscholar.org/paper/e86e74d554e2d7ed77ae5c8029becec52eb08805",
+    "scraped_at": "2026-08-17 11:40:29"
+  },
+  {
+    "id": 210,
+    "source_type": "scholar",
+    "title": "The Addition of Enhanced Capabilities to NATO GMTIF STANAG 4607 to Support RADARSAT-2 GMTI Data",
+    "url_or_path": "https://www.semanticscholar.org/paper/1ac41a4c4c594a4cf555366501d3275647078e2c",
+    "scraped_at": "2026-08-17 11:40:42"
+  },
+  {
+    "id": 211,
+    "source_type": "scholar",
+    "title": "GMTI radar data analysis and simulation",
+    "url_or_path": "https://www.semanticscholar.org/paper/75d62896a8022e2890c16a904fe7c15aae0ee7f9",
+    "scraped_at": "2026-08-17 11:40:42"
+  },
+  {
+    "id": 212,
+    "source_type": "scholar",
+    "title": "STANAG 4586 – Standard Interfaces of UAV Control System ( UCS ) for NATO UAV Interoperability",
+    "url_or_path": "https://www.semanticscholar.org/paper/8f1c3b079457db67d70318c6510afe7a653536bb",
+    "scraped_at": "2026-08-17 11:40:42"
+  },
+  {
+    "id": 213,
+    "source_type": "scholar",
+    "title": "The following paper is being submitted for consideration in the 2004 Command and Control Research and Technology Symposium to",
+    "url_or_path": "https://www.semanticscholar.org/paper/71c06d407a57baa76be1ee9bba164264a33be14f",
+    "scraped_at": "2026-08-17 11:40:42"
+  },
+  {
+    "id": 214,
+    "source_type": "scholar",
+    "title": "MITRE sensor layer prototype",
+    "url_or_path": "https://www.semanticscholar.org/paper/6ce111a3a08028d4b73c61fbc987f956740c6b1d",
+    "scraped_at": "2026-08-17 11:40:42"
+  },
+  {
+    "id": 215,
+    "source_type": "nasa",
+    "title": "Target Tracking with Distributed Sensing and Optimal Data Migration",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20220018604",
+    "scraped_at": "2026-08-17 11:41:08"
+  },
+  {
+    "id": 216,
+    "source_type": "nasa",
+    "title": "Target Tracking with Distributed Sensing and Optimal Data Migration",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20220018460",
+    "scraped_at": "2026-08-17 11:41:08"
+  },
+  {
+    "id": 217,
+    "source_type": "nasa",
+    "title": "Distributed Target Tracking With Optimal Data Migration",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20220007373",
+    "scraped_at": "2026-08-17 11:41:08"
+  },
+  {
+    "id": 218,
+    "source_type": "nasa",
+    "title": "Multiple target tracking and target attitude determination with a scanning laser radar",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19740059128",
+    "scraped_at": "2026-08-17 11:41:08"
+  },
+  {
+    "id": 219,
+    "source_type": "nasa",
+    "title": "Video Target Tracking and Ranging System",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19820000258",
+    "scraped_at": "2026-08-17 11:41:08"
+  },
+  {
+    "id": 220,
+    "source_type": "nasa",
+    "title": "Synchronized Radar-Target Simulator",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19840000263",
+    "scraped_at": "2026-08-17 11:41:08"
+  },
+  {
+    "id": 221,
+    "source_type": "nasa",
+    "title": "Bistatic and Multistatic Radar: Surveillance, Countermeasures, and Radar Cross Sections. (Latest Citations from the Aerospace Database)",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19980000274",
+    "scraped_at": "2026-08-17 11:41:08"
+  },
+  {
+    "id": 222,
+    "source_type": "nasa",
+    "title": "Bistatic and Multistatic Radar: Surveillance, Countermeasures, and Radar Cross Sections. (Latest citations from the Aerospace Database)",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19980073367",
+    "scraped_at": "2026-08-17 11:41:08"
+  },
+  {
+    "id": 223,
+    "source_type": "nasa",
+    "title": "Automated Target Acquisition, Recognition and Tracking (ATTRACT)",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19980193208",
+    "scraped_at": "2026-08-17 11:41:08"
+  },
+  {
+    "id": 224,
+    "source_type": "nasa",
+    "title": "Capabilities of radar as they might relate to entomological studies",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19790011427",
+    "scraped_at": "2026-08-17 11:41:08"
+  },
+  {
+    "id": 225,
+    "source_type": "nasa",
+    "title": "Mid-course multi-target tracking using continuous representation",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19930042802",
+    "scraped_at": "2026-08-17 11:41:12"
+  },
+  {
+    "id": 226,
+    "source_type": "nasa",
+    "title": "Multi-target tracking using a hybrid joint transform correlator",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19910048349",
+    "scraped_at": "2026-08-17 11:41:12"
+  },
+  {
+    "id": 227,
+    "source_type": "nasa",
+    "title": "Resident Space Object Tracking By Using Star Tracker of Small Satellite",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20250007577",
+    "scraped_at": "2026-08-17 11:41:12"
+  },
+  {
+    "id": 228,
+    "source_type": "nasa",
+    "title": "Visual Target Tracking in the Presence of Unknown Observer Motion",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20150008335",
+    "scraped_at": "2026-08-17 11:41:12"
+  },
+  {
+    "id": 229,
+    "source_type": "nasa",
+    "title": "Optimal Sensor Mobility Design for Target Tracking with Distributed Sensing, Communication and Computing Infrastructure",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20230017660",
+    "scraped_at": "2026-08-17 11:41:12"
+  },
+  {
+    "id": 230,
+    "source_type": "nasa",
+    "title": "Dynamically re-configurable CMOS imagers for an active vision system",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20080005130",
+    "scraped_at": "2026-08-17 11:41:12"
+  },
+  {
+    "id": 231,
+    "source_type": "nasa",
+    "title": "Review of laser and RF systems for space proximity operations",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19860043039",
+    "scraped_at": "2026-08-17 11:41:12"
+  },
+  {
+    "id": 232,
+    "source_type": "nasa",
+    "title": "Atmosphere Reconstruction From Rocket Balloon Instrument Sphere Tracking Data Using a Kalman Filter",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20260002773",
+    "scraped_at": "2026-08-17 11:41:16"
+  },
+  {
+    "id": 233,
+    "source_type": "nasa",
+    "title": "Relative Navigation In Elliptical Orbits Using An Iterative Nonlinear Filter",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20040110662",
+    "scraped_at": "2026-08-17 11:41:16"
+  },
+  {
+    "id": 234,
+    "source_type": "nasa",
+    "title": "Airborne radar technology for windshear detection",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19880019873",
+    "scraped_at": "2026-08-17 11:41:16"
+  },
+  {
+    "id": 235,
+    "source_type": "nasa",
+    "title": "Ground to Air Testing of a Fused Optical-Radar Aircraft Detection and Tracking System",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20210025560",
+    "scraped_at": "2026-08-17 11:41:16"
+  },
+  {
+    "id": 236,
+    "source_type": "nasa",
+    "title": "Comparison of Radar Rainfall Retrieval Algorithms in Convective Rain During TOGA COARE",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20000099753",
+    "scraped_at": "2026-08-17 11:41:16"
+  },
+  {
+    "id": 237,
+    "source_type": "nasa",
+    "title": "Tests of Radar Rainfall Retrieval Algorithms",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20000070368",
+    "scraped_at": "2026-08-17 11:41:16"
+  },
+  {
+    "id": 238,
+    "source_type": "nasa",
+    "title": "Remote Guidance of a Mothership-Daughtership Formation for Asteroid Exploration",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20260006110",
+    "scraped_at": "2026-08-17 11:41:16"
+  },
+  {
+    "id": 239,
+    "source_type": "nasa",
+    "title": "Improving FermiI Orbit Determination and Prediction in an Uncertain Atmospheric Drag Environment",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20140008872",
+    "scraped_at": "2026-08-17 11:41:16"
+  },
+  {
+    "id": 240,
+    "source_type": "nasa",
+    "title": "Improving Fermi Orbit Determination and Prediction in an Uncertain Atmospheric Drag Environment",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20140008873",
+    "scraped_at": "2026-08-17 11:41:16"
+  },
+  {
+    "id": 241,
+    "source_type": "nasa",
+    "title": "Deep Interacting Multiple Model Filtering",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20240003219",
+    "scraped_at": "2026-08-17 11:41:23"
+  },
+  {
+    "id": 242,
+    "source_type": "nasa",
+    "title": "Implementation of a Parameterized Interacting Multiple Model Filter on an FPGA for Satellite Communications",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20170004111",
+    "scraped_at": "2026-08-17 11:41:23"
+  },
+  {
+    "id": 243,
+    "source_type": "nasa",
+    "title": "A Bayesian approach to tracking patients having changing pharmacokinetic parameters",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20050150740",
+    "scraped_at": "2026-08-17 11:41:23"
+  },
+  {
+    "id": 244,
+    "source_type": "nasa",
+    "title": "Image Moment-Based Extended Object Tracking for Complex Motions",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20240003111",
+    "scraped_at": "2026-08-17 11:41:23"
+  },
+  {
+    "id": 245,
+    "source_type": "nasa",
+    "title": "Concentric Eyewall Asymmetries in Hurricane Gonzalo (2014) Observed by Airborne Radar",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20180004350",
+    "scraped_at": "2026-08-17 11:41:46"
+  },
+  {
+    "id": 246,
+    "source_type": "nasa",
+    "title": "Unsupervised segmentation of polarimetric SAR data using the covariance matrix",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19930030709",
+    "scraped_at": "2026-08-17 11:41:50"
+  },
+  {
+    "id": 247,
+    "source_type": "nasa",
+    "title": "Unsupervised segmentation of polarimetric SAR data using the covariance matrix",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19920052595",
+    "scraped_at": "2026-08-17 11:41:50"
+  },
+  {
+    "id": 248,
+    "source_type": "nasa",
+    "title": "Theoretical models for polarimetric radar clutter",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19870063995",
+    "scraped_at": "2026-08-17 11:41:50"
+  },
+  {
+    "id": 249,
+    "source_type": "nasa",
+    "title": "K-distribution and polarimetric terrain radar clutter",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19900033097",
+    "scraped_at": "2026-08-17 11:41:50"
+  },
+  {
+    "id": 250,
+    "source_type": "nasa",
+    "title": "SAR Polarimetry",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20130000067",
+    "scraped_at": "2026-08-17 11:41:50"
+  },
+  {
+    "id": 251,
+    "source_type": "nasa",
+    "title": "Polarimetric radar data decomposition and interpretation",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19950017535",
+    "scraped_at": "2026-08-17 11:41:50"
+  },
+  {
+    "id": 252,
+    "source_type": "nasa",
+    "title": "Radar scene generation for tactical decision aids",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19870005134",
+    "scraped_at": "2026-08-17 11:41:50"
+  },
+  {
+    "id": 253,
+    "source_type": "nasa",
+    "title": "The unpolarized component in polarimetric radar observations of forested areas",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19900043600",
+    "scraped_at": "2026-08-17 11:41:50"
+  },
+  {
+    "id": 254,
+    "source_type": "nasa",
+    "title": "Polarization effects and multipolarization SAR",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19930003866",
+    "scraped_at": "2026-08-17 11:41:50"
+  },
+  {
+    "id": 255,
+    "source_type": "nasa",
+    "title": "Radar scene generation for tactical decision aids",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19870011016",
+    "scraped_at": "2026-08-17 11:41:50"
+  },
+  {
+    "id": 256,
+    "source_type": "nasa",
+    "title": "Laser Doppler measurement techniques for spacecraft",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19870039354",
+    "scraped_at": "2026-08-17 11:41:53"
+  },
+  {
+    "id": 257,
+    "source_type": "nasa",
+    "title": "The radial velocity search for extrasolar planets",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19870003052",
+    "scraped_at": "2026-08-17 11:41:53"
+  },
+  {
+    "id": 258,
+    "source_type": "nasa",
+    "title": "Long-term Doppler Shift and Line Profile Studies of Planetary Search Target Stars",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20020044055",
+    "scraped_at": "2026-08-17 11:41:53"
+  },
+  {
+    "id": 259,
+    "source_type": "nasa",
+    "title": "Radial velocity observations of the sun at night",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19930040664",
+    "scraped_at": "2026-08-17 11:41:53"
+  },
+  {
+    "id": 260,
+    "source_type": "nasa",
+    "title": "Spaceborne Radar Measurements of Rainfall Vertical Velocity",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20010097969",
+    "scraped_at": "2026-08-17 11:41:54"
+  },
+  {
+    "id": 261,
+    "source_type": "nasa",
+    "title": "Long-term stability of a Fabry-Perot interferometer used for measurement of stellar Doppler shift",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19910045036",
+    "scraped_at": "2026-08-17 11:41:54"
+  },
+  {
+    "id": 262,
+    "source_type": "nasa",
+    "title": "The radial velocity search for extrasolar planets",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19890007299",
+    "scraped_at": "2026-08-17 11:41:54"
+  },
+  {
+    "id": 263,
+    "source_type": "nasa",
+    "title": "Velocity measurements in the plume of an arcjet engine",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19870053855",
+    "scraped_at": "2026-08-17 11:41:54"
+  },
+  {
+    "id": 264,
+    "source_type": "nasa",
+    "title": "Accuracy Study of a 2-Component Point Doppler Velocimeter (PDV)",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19980019288",
+    "scraped_at": "2026-08-17 11:41:54"
+  },
+  {
+    "id": 265,
+    "source_type": "nasa",
+    "title": "Atmosphere dynamic processes structure at 80-105 km altitude",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19880005145",
+    "scraped_at": "2026-08-17 11:41:54"
+  },
+  {
+    "id": 266,
+    "source_type": "nasa",
+    "title": "Processing Space Fence Radar Cross-Section Data to produce size and mass estimates",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20220010157",
+    "scraped_at": "2026-08-17 11:41:57"
+  },
+  {
+    "id": 267,
+    "source_type": "nasa",
+    "title": "Chapter 19A – Radar Cross Section",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20050209975",
+    "scraped_at": "2026-08-17 11:41:57"
+  },
+  {
+    "id": 268,
+    "source_type": "nasa",
+    "title": "Radar cross section reduction by absorber covering",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19890061220",
+    "scraped_at": "2026-08-17 11:41:57"
+  },
+  {
+    "id": 269,
+    "source_type": "nasa",
+    "title": "Radar Cross Section of Orbital Debris Objects",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20190033903",
+    "scraped_at": "2026-08-17 11:41:57"
+  },
+  {
+    "id": 270,
+    "source_type": "nasa",
+    "title": "Radar cross section fundamentals for the aircraft designer",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19790063885",
+    "scraped_at": "2026-08-17 11:41:57"
+  },
+  {
+    "id": 271,
+    "source_type": "nasa",
+    "title": "Studies of the dependence of the microwave radar cross section on ocean surface variables during the FASINEX experiment",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19890009411",
+    "scraped_at": "2026-08-17 11:41:57"
+  },
+  {
+    "id": 272,
+    "source_type": "nasa",
+    "title": "Conical cut radar cross section calculations for a thin, perfectly conducting plate",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19920012466",
+    "scraped_at": "2026-08-17 11:41:57"
+  },
+  {
+    "id": 273,
+    "source_type": "nasa",
+    "title": "Conical cut radar cross section calculations for a thin, perfectly conducting plate",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19920010504",
+    "scraped_at": "2026-08-17 11:41:57"
+  },
+  {
+    "id": 274,
+    "source_type": "nasa",
+    "title": "Relationship of radar cross section to the geometric size of orbital debris",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19900044989",
+    "scraped_at": "2026-08-17 11:41:57"
+  },
+  {
+    "id": 275,
+    "source_type": "nasa",
+    "title": "A modal radar cross section of thin-wire targets via the singularity expansion method",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19930048821",
+    "scraped_at": "2026-08-17 11:41:57"
+  },
+  {
+    "id": 276,
+    "source_type": "nasa",
+    "title": "An analysis of I/O efficient order-statistic-based techniques for noise power estimation in the HRMS sky survey's operational system",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19930009737",
+    "scraped_at": "2026-08-17 11:42:01"
+  },
+  {
+    "id": 277,
+    "source_type": "nasa",
+    "title": "Real-time simulation of an airborne radar for overwater approaches",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19820018386",
+    "scraped_at": "2026-08-17 11:42:04"
+  },
+  {
+    "id": 278,
+    "source_type": "nasa",
+    "title": "Low cost tracking Navaids error model verification",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19750023123",
+    "scraped_at": "2026-08-17 11:42:04"
+  },
+  {
+    "id": 279,
+    "source_type": "nasa",
+    "title": "Flight investigation of helicopter IFR approaches to oil rigs using airborne weather and mapping radar",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19790065091",
+    "scraped_at": "2026-08-17 11:42:04"
+  },
+  {
+    "id": 280,
+    "source_type": "nasa",
+    "title": "Airborne Radar for sUAS Sense and Avoid",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20200002730",
+    "scraped_at": "2026-08-17 11:42:04"
+  },
+  {
+    "id": 281,
+    "source_type": "nasa",
+    "title": "Flight test evaluation of a video tracker for enhanced offshore airborne radar approach capability",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19820056996",
+    "scraped_at": "2026-08-17 11:42:04"
+  },
+  {
+    "id": 282,
+    "source_type": "nasa",
+    "title": "Analysis of Airborne Radar Altimetry Measurements of the Greenland Ice Sheet",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19980000886",
+    "scraped_at": "2026-08-17 11:42:04"
+  },
+  {
+    "id": 283,
+    "source_type": "nasa",
+    "title": "Designing clutter rejection filters with complex coefficients for airborne pulsed Doppler weather radar",
+    "url_or_path": "https://ntrs.nasa.gov/citations/19940010971",
+    "scraped_at": "2026-08-17 11:42:05"
+  },
+  {
+    "id": 284,
+    "source_type": "nasa",
+    "title": "Wireless Command-and-Control of UAV-Based Imaging LANs",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20070009831",
+    "scraped_at": "2026-08-17 11:42:08"
+  },
+  {
+    "id": 285,
+    "source_type": "nasa",
+    "title": "Langley Research Antenna System (LRAS)",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20230000560",
+    "scraped_at": "2026-08-17 11:42:08"
+  },
+  {
+    "id": 286,
+    "source_type": "nasa",
+    "title": "Adaptive Multi-Sensor Fusion Based Object Tracking for Autonomous Urban Air Mobility Operations",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20210025369",
+    "scraped_at": "2026-08-17 11:42:15"
+  },
+  {
+    "id": 287,
+    "source_type": "nasa",
+    "title": "Adaptive Multi-Sensor Fusion Based Object Tracking for Autonomous Urban Air Mobility Operations",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20210025534",
+    "scraped_at": "2026-08-17 11:42:15"
+  },
+  {
+    "id": 288,
+    "source_type": "nasa",
+    "title": "Flexible Data Fusion for Air Quality Estimation and Forecasting in Google Earth Engine to support Global Health Management Needs",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20230017622",
+    "scraped_at": "2026-08-17 11:42:15"
+  },
+  {
+    "id": 289,
+    "source_type": "nasa",
+    "title": "Sensing Small Uncrewed Aerial Vehicles with Distributed Radars for Advanced Air Mobility Surveillance",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20240014718",
+    "scraped_at": "2026-08-17 11:42:15"
+  },
+  {
+    "id": 290,
+    "source_type": "nasa",
+    "title": "Autonomous Nanosatellite Swarming (ANS) Using Radio Frequency and Optical Navigation",
+    "url_or_path": "https://ntrs.nasa.gov/citations/20200002957",
+    "scraped_at": "2026-08-17 11:42:15"
+  },
+  {
+    "id": 291,
+    "source_type": "hal",
+    "title": "Enhanced 3D Radar Target Detection and Tracking Using Extended Kalman Filtering for Ambiguity Resolution",
+    "url_or_path": "https://hal.science/hal-04921869v1",
+    "scraped_at": "2026-08-17 11:46:49"
+  },
+  {
+    "id": 292,
+    "source_type": "hal",
+    "title": "Multiple Kernelized Correlation Filters (MKCF) for Extended Object Tracking Using X -Band Marine Radar Data",
+    "url_or_path": "https://utt.hal.science/hal-02353289v1",
+    "scraped_at": "2026-08-17 11:46:49"
+  },
+  {
+    "id": 293,
+    "source_type": "hal",
+    "title": "An Innovative Integration of JPDA-LSTM Synergy and Explainable AI for Enhanced Multi-Target Tracking and Radar Performance",
+    "url_or_path": "https://theses.hal.science/tel-05413117v1",
+    "scraped_at": "2026-08-17 11:46:49"
+  },
+  {
+    "id": 294,
+    "source_type": "hal",
+    "title": "Drone Tracking Based on the Fusion of Staring Radar and Camera Data: An Experimental Study",
+    "url_or_path": "https://hal.science/hal-04140624v1",
+    "scraped_at": "2026-08-17 11:46:49"
+  },
+  {
+    "id": 295,
+    "source_type": "hal",
+    "title": "Pistage de cibles manoeuvrantes en radar passif par filtrage à particules gaussiennes",
+    "url_or_path": "https://theses.hal.science/tel-00697130v1",
+    "scraped_at": "2026-08-17 11:46:49"
+  },
+  {
+    "id": 296,
+    "source_type": "hal",
+    "title": "Advanced Radar Target Tracking: Synergizing Deep Learning LSTM Clutter Filtering with Joint Probabilistic Data Association",
+    "url_or_path": "https://hal.science/hal-05562532v1",
+    "scraped_at": "2026-08-17 11:46:49"
+  },
+  {
+    "id": 297,
+    "source_type": "hal",
+    "title": "Dynamic management of tracking ressources for hyper-manoeuvring targets",
+    "url_or_path": "https://pastel.hal.science/tel-02274370v1",
+    "scraped_at": "2026-08-17 11:46:49"
+  },
+  {
+    "id": 298,
+    "source_type": "hal",
+    "title": "Realistic Ship Model for Extended Target Tracking Algorithms",
+    "url_or_path": "https://univ-rennes.hal.science/hal-01300975v1",
+    "scraped_at": "2026-08-17 11:46:49"
+  },
+  {
+    "id": 299,
+    "source_type": "hal",
+    "title": "Very Long Range Radar (TLP): Overview and Experimentation for Early Warning",
+    "url_or_path": "https://hal.science/hal-04760899v1",
+    "scraped_at": "2026-08-17 11:46:49"
+  },
+  {
+    "id": 300,
+    "source_type": "hal",
+    "title": "Sensor Management using Expected Risk Reduction approach",
+    "url_or_path": "https://hal.science/hal-01474646v1",
+    "scraped_at": "2026-08-17 11:46:49"
+  },
+  {
+    "id": 301,
+    "source_type": "hal",
+    "title": "Robust multi-target sensing/tracking in the Bayesian Occupancy Filter framework",
+    "url_or_path": "https://hal.science/hal-00278037v1",
+    "scraped_at": "2026-08-17 11:46:51"
+  },
+  {
+    "id": 302,
+    "source_type": "hal",
+    "title": "Calculation of multi-target conditional mean and covariance based on gaussian random fields",
+    "url_or_path": "https://hal.science/hal-05308307v1",
+    "scraped_at": "2026-08-17 11:46:51"
+  },
+  {
+    "id": 303,
+    "source_type": "hal",
+    "title": "Performance Analysis of two Sequential Monte Carlo Methods and Posterior Cramér-Rao Bounds for Multi-Target Tracking",
+    "url_or_path": "https://inria.hal.science/inria-00072138v1",
+    "scraped_at": "2026-08-17 11:46:51"
+  },
+  {
+    "id": 304,
+    "source_type": "hal",
+    "title": "Contributions aux pistages mono et multi-cibles fondés sur les ensembles finis aléatoires",
+    "url_or_path": "https://theses.hal.science/tel-02297129v1",
+    "scraped_at": "2026-08-17 11:46:51"
+  },
+  {
+    "id": 305,
+    "source_type": "hal",
+    "title": "Multiple Persons Tracking with Data Fusion of Multiple Cameras and Floor Sensors Using Particle Filters",
+    "url_or_path": "https://inria.hal.science/inria-00326752v1",
+    "scraped_at": "2026-08-17 11:46:51"
+  },
+  {
+    "id": 306,
+    "source_type": "hal",
+    "title": "Feature-Aided SMC-PHD Filter for Nonlinear Multi-target Tracking in Cluttered Environments",
+    "url_or_path": "https://hal.science/hal-03795955v1",
+    "scraped_at": "2026-08-17 11:46:51"
+  },
+  {
+    "id": 307,
+    "source_type": "hal",
+    "title": "Multi-sensor network information for linear-Gaussian multi-target tracking systems",
+    "url_or_path": "https://hal.science/hal-03359409v1",
+    "scraped_at": "2026-08-17 11:46:51"
+  },
+  {
+    "id": 308,
+    "source_type": "hal",
+    "title": "Low complexity multi-target tracking for embedded systems",
+    "url_or_path": "https://cea.hal.science/cea-01844446v1",
+    "scraped_at": "2026-08-17 11:46:51"
+  },
+  {
+    "id": 309,
+    "source_type": "hal",
+    "title": "Sequential Harmonic Component Tracking For Underdetermined Blind Source Separation in a Multi-Target Tracking Framework",
+    "url_or_path": "https://hal.science/hal-03912257v2",
+    "scraped_at": "2026-08-17 11:46:51"
+  },
+  {
+    "id": 310,
+    "source_type": "hal",
+    "title": "Nouvelles méthodes en filtrage particulaire-Application au recalage de navigation inertielle par mesures altimétriques",
+    "url_or_path": "https://theses.hal.science/tel-00008068v1",
+    "scraped_at": "2026-08-17 11:46:54"
+  },
+  {
+    "id": 311,
+    "source_type": "hal",
+    "title": "Multichannel AR Parameter Estimation from Noisy Observations As an Errors-In-Variables Issue",
+    "url_or_path": "https://hal.science/hal-00368287v1",
+    "scraped_at": "2026-08-17 11:46:54"
+  },
+  {
+    "id": 312,
+    "source_type": "hal",
+    "title": "Apport du filtrage particulaire au recalage altimétrique dans un contexte de navigation hybridée",
+    "url_or_path": "https://theses.hal.science/tel-00445567v1",
+    "scraped_at": "2026-08-17 11:46:54"
+  },
+  {
+    "id": 313,
+    "source_type": "hal",
+    "title": "Fully-Adaptive Update Rate for Nonlinear Trackers",
+    "url_or_path": "https://minesparis-psl.hal.science/hal-01982794v1",
+    "scraped_at": "2026-08-17 11:46:54"
+  },
+  {
+    "id": 314,
+    "source_type": "hal",
+    "title": "State estimation of an octorotor with unknown inputs. Application to radar imaging",
+    "url_or_path": "https://hal.science/hal-01630173v1",
+    "scraped_at": "2026-08-17 11:46:54"
+  },
+  {
+    "id": 315,
+    "source_type": "hal",
+    "title": "Highly Maneuvering Target Tracking with a Transformer Network",
+    "url_or_path": "https://hal.science/hal-04785934v1",
+    "scraped_at": "2026-08-17 11:46:54"
+  },
+  {
+    "id": 316,
+    "source_type": "hal",
+    "title": "APPROCHES POUR L'ANALYSE DES SIGNAUX A PHASE POLYNOMIALE DANS UN ENVIRONNEMENT NON GAUSSIEN",
+    "url_or_path": "https://theses.hal.science/tel-00010277v1",
+    "scraped_at": "2026-08-17 11:46:54"
+  },
+  {
+    "id": 317,
+    "source_type": "hal",
+    "title": "Transformer-Based State Estimation for Tracking: Maneuvering Target and Multi- Target Capabilities",
+    "url_or_path": "https://hal.science/hal-04645132v1",
+    "scraped_at": "2026-08-17 11:46:56"
+  },
+  {
+    "id": 318,
+    "source_type": "hal",
+    "title": "Credibilistic IMM likelihood updating applied to outdoor vehicle robust ego-localization",
+    "url_or_path": "https://hal.science/hal-00908018v1",
+    "scraped_at": "2026-08-17 11:46:59"
+  },
+  {
+    "id": 319,
+    "source_type": "hal",
+    "title": "A multiple model localization system for outdoor vehicles",
+    "url_or_path": "https://hal.science/hal-00364705v1",
+    "scraped_at": "2026-08-17 11:46:59"
+  },
+  {
+    "id": 320,
+    "source_type": "hal",
+    "title": "Pedestrian tracking in car parks: an Adaptive Interacting Multiple Model based Filtering Method",
+    "url_or_path": "https://inria.hal.science/inria-00182022v1",
+    "scraped_at": "2026-08-17 11:46:59"
+  },
+  {
+    "id": 321,
+    "source_type": "hal",
+    "title": "A High-Precision Positioning Scheme Under Non-Point Visible Transmitters",
+    "url_or_path": "https://hal.science/hal-02953812v1",
+    "scraped_at": "2026-08-17 11:46:59"
+  },
+  {
+    "id": 322,
+    "source_type": "hal",
+    "title": "Adaptive Interactive Multiple Models applied on pedestrian tracking in car parks",
+    "url_or_path": "https://inria.hal.science/inria-00182002v1",
+    "scraped_at": "2026-08-17 11:46:59"
+  },
+  {
+    "id": 323,
+    "source_type": "hal",
+    "title": "Low cost IMU-Odometer-GPS ego localization for unusual maneuvers",
+    "url_or_path": "https://hal.science/hal-00875221v1",
+    "scraped_at": "2026-08-17 11:46:59"
+  },
+  {
+    "id": 324,
+    "source_type": "hal",
+    "title": "Interacting multiple model based method to track moving fluorescent biological spots",
+    "url_or_path": "https://hal.science/hal-02425514v1",
+    "scraped_at": "2026-08-17 11:46:59"
+  },
+  {
+    "id": 325,
+    "source_type": "hal",
+    "title": "A particle filtering approach for convoy tracking in the midst of civilian traffic",
+    "url_or_path": "https://hal.science/hal-00267744v1",
+    "scraped_at": "2026-08-17 11:46:59"
+  },
+  {
+    "id": 326,
+    "source_type": "hal",
+    "title": "Study of data fusion algorithms applied to unattended ground sensor network",
+    "url_or_path": "https://onera.hal.science/hal-01070377v1",
+    "scraped_at": "2026-08-17 11:46:59"
+  },
+  {
+    "id": 327,
+    "source_type": "hal",
+    "title": "Développement d'une nouvelle algorithmie de localisation adaptée à l'ensemble des mobiles suivis par le système ARGOS",
+    "url_or_path": "https://theses.hal.science/tel-00949319v1",
+    "scraped_at": "2026-08-17 11:46:59"
+  },
+  {
+    "id": 328,
+    "source_type": "hal",
+    "title": "Human Detection and Data Association in Multiple Camera Tracking",
+    "url_or_path": "https://inria.hal.science/inria-00625253v1",
+    "scraped_at": "2026-08-17 11:47:01"
+  },
+  {
+    "id": 329,
+    "source_type": "hal",
+    "title": "Multiple target tracking under occlusions using modified Joint Probabilistic Data Association",
+    "url_or_path": "https://inria.hal.science/hal-01246931v1",
+    "scraped_at": "2026-08-17 11:47:01"
+  },
+  {
+    "id": 330,
+    "source_type": "hal",
+    "title": "An Efficient Formulation of the Bayesian Occupation Filter for Target Tracking in Dynamic Environments",
+    "url_or_path": "https://inria.hal.science/inria-00182089v1",
+    "scraped_at": "2026-08-17 11:47:01"
+  },
+  {
+    "id": 331,
+    "source_type": "hal",
+    "title": "Advances in probabilistic particle tracking for biomedical imaging",
+    "url_or_path": "https://theses.hal.science/tel-00560530v1",
+    "scraped_at": "2026-08-17 11:47:04"
+  },
+  {
+    "id": 332,
+    "source_type": "hal",
+    "title": "Hybrid algorithms for multitarget tracking using MHT and GM-CPHD",
+    "url_or_path": "https://hal.science/hal-00590550v1",
+    "scraped_at": "2026-08-17 11:47:04"
+  },
+  {
+    "id": 333,
+    "source_type": "hal",
+    "title": "Comparative study of transformer robustness for multiple particle tracking without clutter",
+    "url_or_path": "https://hal.science/hal-04619330v1",
+    "scraped_at": "2026-08-17 11:47:04"
+  },
+  {
+    "id": 334,
+    "source_type": "hal",
+    "title": "Convoy detection processing by using the hybrid algorithm (GMCPHD/VS--IMMC--MHT) and dynamic bayesian networks",
+    "url_or_path": "https://hal.science/hal-00410809v1",
+    "scraped_at": "2026-08-17 11:47:04"
+  },
+  {
+    "id": 335,
+    "source_type": "hal",
+    "title": "Integrating Optical Flow within a Bayesian Framework for Multiple Object Tracking in Biological Imaging. Application to Neuron Tracking in Hydra",
+    "url_or_path": "https://theses.hal.science/tel-05559699v2",
+    "scraped_at": "2026-08-17 11:47:04"
+  },
+  {
+    "id": 336,
+    "source_type": "hal",
+    "title": "Improvement of track segment association with classification information",
+    "url_or_path": "https://hal.science/hal-01080986v1",
+    "scraped_at": "2026-08-17 11:47:04"
+  },
+  {
+    "id": 337,
+    "source_type": "hal",
+    "title": "Grid-based Localization and Online Mapping with Moving Object Detection and Tracking",
+    "url_or_path": "https://inria.hal.science/inria-00167687v3",
+    "scraped_at": "2026-08-17 11:47:04"
+  },
+  {
+    "id": 338,
+    "source_type": "hal",
+    "title": "Association of labelled tracks with low reliability covariance information: a track graph partitioning approach",
+    "url_or_path": "https://hal.science/hal-04628468v1",
+    "scraped_at": "2026-08-17 11:47:04"
+  },
+  {
+    "id": 339,
+    "source_type": "hal",
+    "title": "Stochastic models and methods for multi-object tracking",
+    "url_or_path": "https://theses.hal.science/tel-00651396v1",
+    "scraped_at": "2026-08-17 11:47:04"
+  },
+  {
+    "id": 340,
+    "source_type": "hal",
+    "title": "Detection and tracking in Track-Before-Detect context with particle filter",
+    "url_or_path": "https://theses.hal.science/tel-01495993v1",
+    "scraped_at": "2026-08-17 11:47:06"
+  },
+  {
+    "id": 341,
+    "source_type": "hal",
+    "title": "Moving target's detection performances in a sequence of infrared multispectral images",
+    "url_or_path": "https://hal.science/hal-04564444v1",
+    "scraped_at": "2026-08-17 11:47:07"
+  },
+  {
+    "id": 342,
+    "source_type": "hal",
+    "title": "Optimisation d'un filtre particulaire en contexte track-before-detect",
+    "url_or_path": "https://inria.hal.science/hal-00911889v1",
+    "scraped_at": "2026-08-17 11:47:07"
+  },
+  {
+    "id": 343,
+    "source_type": "hal",
+    "title": "Particle Filter Track-Before-Detect for Target Detection and Tracking from Marine Radar Data",
+    "url_or_path": "https://hal.science/hal-02457676v1",
+    "scraped_at": "2026-08-17 11:47:07"
+  },
+  {
+    "id": 344,
+    "source_type": "hal",
+    "title": "Tracking and Detecting moving weak Targets",
+    "url_or_path": "https://ensta.hal.science/hal-01727779v1",
+    "scraped_at": "2026-08-17 11:47:07"
+  },
+  {
+    "id": 345,
+    "source_type": "hal",
+    "title": "Recursive Bayesian filtering for multitarget track-before-detect in passive radars",
+    "url_or_path": "https://hal.science/hal-00738318v1",
+    "scraped_at": "2026-08-17 11:47:07"
+  },
+  {
+    "id": 346,
+    "source_type": "hal",
+    "title": "Track-before-detect and PHD filter for multi-object tracking in infrared image sequences",
+    "url_or_path": "https://hal.science/hal-01332943v1",
+    "scraped_at": "2026-08-17 11:47:07"
+  },
+  {
+    "id": 347,
+    "source_type": "hal",
+    "title": "Track-Before-Detect Framework-Based Vehicle Monocular Vision Sensors",
+    "url_or_path": "https://hal.science/hal-02007321v1",
+    "scraped_at": "2026-08-17 11:47:07"
+  },
+  {
+    "id": 348,
+    "source_type": "hal",
+    "title": "A bayesian filtering algorithm in jump Markov systems with application to track-before-detect",
+    "url_or_path": "https://hal.science/hal-01306300v1",
+    "scraped_at": "2026-08-17 11:47:07"
+  },
+  {
+    "id": 349,
+    "source_type": "hal",
+    "title": "A Particle Filter for Multi-Target Tracking in Track Before Detectcontext",
+    "url_or_path": "https://hal.science/hal-01406625v1",
+    "scraped_at": "2026-08-17 11:47:07"
+  },
+  {
+    "id": 350,
+    "source_type": "hal",
+    "title": "Aerial navigation based on SAR imaging and reference geospatial data",
+    "url_or_path": "https://theses.hal.science/tel-05613602v1",
+    "scraped_at": "2026-08-17 11:47:16"
+  },
+  {
+    "id": 351,
+    "source_type": "hal",
+    "title": "Détection et Estimation en Environnement non Gaussien",
+    "url_or_path": "https://theses.hal.science/tel-00128438v1",
+    "scraped_at": "2026-08-17 11:47:19"
+  },
+  {
+    "id": 352,
+    "source_type": "hal",
+    "title": "Classification of Buried Objects From Ground Penetrating Radar Images by Using Second-Order Deep Learning Models",
+    "url_or_path": "https://hal.science/hal-04902720v1",
+    "scraped_at": "2026-08-17 11:47:19"
+  },
+  {
+    "id": 353,
+    "source_type": "hal",
+    "title": "Data-Driven Evaluation of Endo-Clutter Detectors for Cognitive Radars",
+    "url_or_path": "https://hal.science/hal-04765767v1",
+    "scraped_at": "2026-08-17 11:47:19"
+  },
+  {
+    "id": 354,
+    "source_type": "hal",
+    "title": "Algorithmes d’estimation et de détection en contexte hétérogène rang faible",
+    "url_or_path": "https://theses.hal.science/tel-01244963v2",
+    "scraped_at": "2026-08-17 11:47:19"
+  },
+  {
+    "id": 355,
+    "source_type": "hal",
+    "title": "INFLUENCE OF COVARIANCE MATRIX MISMATCH ON POLARIMETRIC DETECTORS FOR LOW-GRAZING ENDO-CLUTTER DETECTION",
+    "url_or_path": "https://hal.science/hal-03918862v1",
+    "scraped_at": "2026-08-17 11:47:19"
+  },
+  {
+    "id": 356,
+    "source_type": "hal",
+    "title": "Covariance Estimation of Generalized Monopulse for Radar Tracking",
+    "url_or_path": "https://hal.science/hal-04778657v1",
+    "scraped_at": "2026-08-17 11:47:19"
+  },
+  {
+    "id": 357,
+    "source_type": "hal",
+    "title": "Robust estimation analysis for signal and image processing",
+    "url_or_path": "https://theses.hal.science/tel-02494757v1",
+    "scraped_at": "2026-08-17 11:47:19"
+  },
+  {
+    "id": 358,
+    "source_type": "hal",
+    "title": "Information geometry for radar detection in heterogeneous environments",
+    "url_or_path": "https://centralesupelec.hal.science/hal-01102163v1",
+    "scraped_at": "2026-08-17 11:47:19"
+  },
+  {
+    "id": 359,
+    "source_type": "hal",
+    "title": "Covariance Matrix Reconstruction Based on Regularized Denoising Autoencoders for Direction-of-Arrival Estimation",
+    "url_or_path": "https://hal.science/hal-05688395v1",
+    "scraped_at": "2026-08-17 11:47:19"
+  },
+  {
+    "id": 360,
+    "source_type": "hal",
+    "title": "Robust classifcation methods on the space of covariance matrices. : application to texture and polarimetric synthetic aperture radar image classification",
+    "url_or_path": "https://theses.hal.science/tel-01511645v1",
+    "scraped_at": "2026-08-17 11:47:19"
+  },
+  {
+    "id": 361,
+    "source_type": "hal",
+    "title": "Mesure de vitesse dans les jets de plasma",
+    "url_or_path": "https://hal.science/jpa-00244274v1",
+    "scraped_at": "2026-08-17 11:47:22"
+  },
+  {
+    "id": 362,
+    "source_type": "hal",
+    "title": "Spatial-Time Relationships When Measuring the Range and the Velocity of Spacecrafts",
+    "url_or_path": "https://hal.science/hal-04384561v1",
+    "scraped_at": "2026-08-17 11:47:22"
+  },
+  {
+    "id": 363,
+    "source_type": "hal",
+    "title": "RONSARD Radar: Implementation of Dual Polarization on a C-Band Doppler Weather Radar",
+    "url_or_path": "https://hal.science/hal-00352951v1",
+    "scraped_at": "2026-08-17 11:47:22"
+  },
+  {
+    "id": 364,
+    "source_type": "hal",
+    "title": "On the Use of Dual Co-polarized Radar Data to Derive a Sea Surface Doppler Model—Part 2: Simulation and Validation",
+    "url_or_path": "https://hal.science/hal-04203988v1",
+    "scraped_at": "2026-08-17 11:47:22"
+  },
+  {
+    "id": 365,
+    "source_type": "hal",
+    "title": "Doppler reflectometry spectra simulations with velocity shear layer",
+    "url_or_path": "https://hal.univ-lorraine.fr/hal-04799940v1",
+    "scraped_at": "2026-08-17 11:47:22"
+  },
+  {
+    "id": 366,
+    "source_type": "hal",
+    "title": "Fluctuation spectra and velocity profile from Doppler backscattering on Tore Supra",
+    "url_or_path": "https://hal.science/hal-05004233v1",
+    "scraped_at": "2026-08-17 11:47:22"
+  },
+  {
+    "id": 367,
+    "source_type": "hal",
+    "title": "Measuring Venus' winds using the Absolute Astronomical Accelerometer: Solid super-rotation model of Venus' clouds",
+    "url_or_path": "https://hal.science/hal-00333733v1",
+    "scraped_at": "2026-08-17 11:47:22"
+  },
+  {
+    "id": 368,
+    "source_type": "hal",
+    "title": "Observations of meteor-head echoes using the Jicamarca 50 MHz radar in interferometer mode",
+    "url_or_path": "https://hal.science/hal-00303915v1",
+    "scraped_at": "2026-08-17 11:47:22"
+  },
+  {
+    "id": 369,
+    "source_type": "hal",
+    "title": "Gravitational redshifts in main-sequence and giant stars",
+    "url_or_path": "https://hal.science/hal-03786357v1",
+    "scraped_at": "2026-08-17 11:47:22"
+  },
+  {
+    "id": 370,
+    "source_type": "hal",
+    "title": "Redshifted Sodium Transient near Exoplanet Transit",
+    "url_or_path": "https://insu.hal.science/insu-05081561v1",
+    "scraped_at": "2026-08-17 11:47:22"
+  },
+  {
+    "id": 371,
+    "source_type": "hal",
+    "title": "Radar cross-section estimation in reverberation chambers",
+    "url_or_path": "https://hal.science/hal-03370660v1",
+    "scraped_at": "2026-08-17 11:47:25"
+  },
+  {
+    "id": 372,
+    "source_type": "hal",
+    "title": "Using VHF navigation aid to estimate radar cross section of airliners by inverting the radar equation",
+    "url_or_path": "https://hal.science/hal-02183150v1",
+    "scraped_at": "2026-08-17 11:47:25"
+  },
+  {
+    "id": 373,
+    "source_type": "hal",
+    "title": "On the measurement of the delta Radar Cross Section (ΔRCS) for UHF tags",
+    "url_or_path": "https://inria.hal.science/hal-01056851v1",
+    "scraped_at": "2026-08-17 11:47:25"
+  },
+  {
+    "id": 374,
+    "source_type": "hal",
+    "title": "Surrogate Modeling for Robust Airfighters Radar Cross Section Predictions Under Uncertainty",
+    "url_or_path": "https://hal.science/hal-05486208v1",
+    "scraped_at": "2026-08-17 11:47:25"
+  },
+  {
+    "id": 375,
+    "source_type": "hal",
+    "title": "Multiangle retrodirective cascaded metasurface",
+    "url_or_path": "https://hal.science/hal-02924923v1",
+    "scraped_at": "2026-08-17 11:47:25"
+  },
+  {
+    "id": 376,
+    "source_type": "hal",
+    "title": "Simulation of buried objects Radar Cross Section (RCS) using a Hybrid Finite Volume Method: Experimental validation through RCS measurements of a PEC sphere",
+    "url_or_path": "https://hal.science/hal-04779787v1",
+    "scraped_at": "2026-08-17 11:47:25"
+  },
+  {
+    "id": 377,
+    "source_type": "hal",
+    "title": "Antenna's Radar Cross Section (RCS) Measurements",
+    "url_or_path": "https://hal.parisnanterre.fr/hal-04331270v1",
+    "scraped_at": "2026-08-17 11:47:25"
+  },
+  {
+    "id": 378,
+    "source_type": "hal",
+    "title": "Radar Cross Section Enhancement using Metasurfaces for Road Safety Applications",
+    "url_or_path": "https://hal.science/hal-04575421v1",
+    "scraped_at": "2026-08-17 11:47:25"
+  },
+  {
+    "id": 379,
+    "source_type": "hal",
+    "title": "Techniques Used in Estimation of Radar Range, Radar Cross Section and Moving Targets",
+    "url_or_path": "https://hal.science/hal-05164200v1",
+    "scraped_at": "2026-08-17 11:47:25"
+  },
+  {
+    "id": 380,
+    "source_type": "hal",
+    "title": "Techniques de contrôle de la surface équivalente radar à l’aide de métasurfaces – Application à des surfaces à réflexion anormale ou à transition de propriétés en réflexion",
+    "url_or_path": "https://theses.hal.science/tel-04652393v2",
+    "scraped_at": "2026-08-17 11:47:25"
+  },
+  {
+    "id": 381,
+    "source_type": "hal",
+    "title": "A new CFAR detector in Gamma-distributed nonhomogeneous backgrounds",
+    "url_or_path": "https://hal.science/hal-00326629v1",
+    "scraped_at": "2026-08-17 11:47:27"
+  },
+  {
+    "id": 382,
+    "source_type": "hal",
+    "title": "New formulation of GNSS acquisition with CFAR detection",
+    "url_or_path": "https://uphf.hal.science/hal-03429277v1",
+    "scraped_at": "2026-08-17 11:47:27"
+  },
+  {
+    "id": 383,
+    "source_type": "hal",
+    "title": "Performances evaluation of GNSS ALTBOC acquisition with CFAR detection in Rayleigh fading channel",
+    "url_or_path": "https://uphf.hal.science/hal-03612517v1",
+    "scraped_at": "2026-08-17 11:47:27"
+  },
+  {
+    "id": 384,
+    "source_type": "hal",
+    "title": "Loss Function Design For Training Robust Radar Detectors Using Deep Learning",
+    "url_or_path": "https://hal.science/hal-04328554v1",
+    "scraped_at": "2026-08-17 11:47:27"
+  },
+  {
+    "id": 385,
+    "source_type": "hal",
+    "title": "Asymptotically CFAR Unsupervised Target Detection and Discrimination in Hyperspectral Images with Anomalous Component Pursuit (ACP)",
+    "url_or_path": "https://hal.science/hal-00948179v1",
+    "scraped_at": "2026-08-17 11:47:27"
+  },
+  {
+    "id": 386,
+    "source_type": "hal",
+    "title": "ORDER-STATISTICS MINIMUM ERROR RATE DETECTOR",
+    "url_or_path": "https://hal.science/hal-01002367v1",
+    "scraped_at": "2026-08-17 11:47:27"
+  },
+  {
+    "id": 387,
+    "source_type": "hal",
+    "title": "Induction machine faults detection based on a constant false alarm rate detector",
+    "url_or_path": "https://hal.science/hal-01449096v1",
+    "scraped_at": "2026-08-17 11:47:27"
+  },
+  {
+    "id": 388,
+    "source_type": "hal",
+    "title": "A CFAR algorithm for anomaly detection and discrimination in Hyperspectral Images",
+    "url_or_path": "https://hal.science/hal-00471636v1",
+    "scraped_at": "2026-08-17 11:47:27"
+  },
+  {
+    "id": 389,
+    "source_type": "hal",
+    "title": "CFAR Detection in the Framework of Time-Frequency Analysis",
+    "url_or_path": "https://uphf.hal.science/hal-03426998v1",
+    "scraped_at": "2026-08-17 11:47:27"
+  },
+  {
+    "id": 390,
+    "source_type": "hal",
+    "title": "Adaptive CA-CFAR Threshold for Non-Coherent IR-UWB Energy Detector Receivers",
+    "url_or_path": "https://hal.science/hal-00692937v1",
+    "scraped_at": "2026-08-17 11:47:27"
+  },
+  {
+    "id": 391,
+    "source_type": "hal",
+    "title": "Sethi : Review Of 10 Years Of Development And Experimentation Of The Remote Sensing Platform",
+    "url_or_path": "https://hal.science/hal-02502425v1",
+    "scraped_at": "2026-08-17 11:47:30"
+  },
+  {
+    "id": 392,
+    "source_type": "hal",
+    "title": "Complete radar simulation chain: Application to maritime patrol surveillance using SAR/ISAR modes",
+    "url_or_path": "https://hal.science/hal-03280762v1",
+    "scraped_at": "2026-08-17 11:47:30"
+  },
+  {
+    "id": 393,
+    "source_type": "hal",
+    "title": "Aircraft local wind estimation from radar tracker data",
+    "url_or_path": "https://enac.hal.science/hal-00938406v1",
+    "scraped_at": "2026-08-17 11:47:30"
+  },
+  {
+    "id": 394,
+    "source_type": "hal",
+    "title": "Modelling of LIDAR sensor disturbances by solid airborne particles",
+    "url_or_path": "https://hal.science/hal-03220397v1",
+    "scraped_at": "2026-08-17 11:47:30"
+  },
+  {
+    "id": 395,
+    "source_type": "hal",
+    "title": "Range recursive and Taylor series based space-time adaptive processing for range dependent clutter rejection",
+    "url_or_path": "https://centralesupelec.hal.science/hal-00697352v1",
+    "scraped_at": "2026-08-17 11:47:30"
+  },
+  {
+    "id": 396,
+    "source_type": "hal",
+    "title": "Time Indexed Formulations for Scheduling Chains on a Single Machine: An Application to Airborne Radars",
+    "url_or_path": "https://inria.hal.science/inria-00339639v2",
+    "scraped_at": "2026-08-17 11:47:30"
+  },
+  {
+    "id": 397,
+    "source_type": "hal",
+    "title": "Approches bayésiennes pour le pistage radar de cibles de surface potentiellement manoeuvrantes",
+    "url_or_path": "https://theses.hal.science/tel-01398519v1",
+    "scraped_at": "2026-08-17 11:47:30"
+  },
+  {
+    "id": 398,
+    "source_type": "hal",
+    "title": "High-rate GNSS Reflectometry Estimates for Airborne Soil-moisture Detection",
+    "url_or_path": "https://hal.science/hal-03518168v1",
+    "scraped_at": "2026-08-17 11:47:30"
+  },
+  {
+    "id": 399,
+    "source_type": "hal",
+    "title": "Airborne system for coastal sea state estimation using GNSS-Reflectometry",
+    "url_or_path": "https://hal.science/hal-04409372v1",
+    "scraped_at": "2026-08-17 11:47:30"
+  },
+  {
+    "id": 400,
+    "source_type": "hal",
+    "title": "From Simultaneous Localization And Mapping to Collaborative Localization for Intelligent Vehicles",
+    "url_or_path": "https://hal.science/hal-02922656v1",
+    "scraped_at": "2026-08-17 11:47:37"
+  },
+  {
+    "id": 401,
+    "source_type": "hal",
+    "title": "A Novel Adaptive Fusion Scheme For Cooperative Spectrum Sensing",
+    "url_or_path": "https://inria.hal.science/hal-00747079v1",
+    "scraped_at": "2026-08-17 11:47:37"
+  },
+  {
+    "id": 402,
+    "source_type": "hal",
+    "title": "One-dimensional Cooperative Localization for Vehicles equipped with mono-frequency GNSS receivers",
+    "url_or_path": "https://hal.science/hal-01596883v2",
+    "scraped_at": "2026-08-17 11:47:37"
+  },
+  {
+    "id": 403,
+    "source_type": "hal",
+    "title": "Localisation coopérative de véhicules autonomes communicants",
+    "url_or_path": "https://theses.hal.science/tel-02883196v1",
+    "scraped_at": "2026-08-17 11:47:37"
+  },
+  {
+    "id": 404,
+    "source_type": "hal",
+    "title": "Cooperative GNSS Positioning aided by Road-Features Measurements",
+    "url_or_path": "https://hal.science/hal-01494221v1",
+    "scraped_at": "2026-08-17 11:47:37"
+  },
+  {
+    "id": 405,
+    "source_type": "hal",
+    "title": "Mutual Localization and Positioning of Vehicles Sharing GNSS pseudoranges: Sequential Bayesian approach and Experiments",
+    "url_or_path": "https://hal.science/hal-01203085v1",
+    "scraped_at": "2026-08-17 11:47:37"
+  },
+  {
+    "id": 406,
+    "source_type": "hal",
+    "title": "Target-to-Track Collaborative Association Combining a Laser Scanner and a Camera",
+    "url_or_path": "https://hal.science/hal-01059757v1",
+    "scraped_at": "2026-08-17 11:47:37"
+  },
+  {
+    "id": 407,
+    "source_type": "hal",
+    "title": "Cooperative people detection and tracking strategies with a mobile robot and wall mounted cameras",
+    "url_or_path": "https://theses.hal.science/tel-01068355v1",
+    "scraped_at": "2026-08-17 11:47:37"
+  },
+  {
+    "id": 408,
+    "source_type": "hal",
+    "title": "Ship detection and characterization from SAR imagery linked with cooperative vessel tracking data",
+    "url_or_path": "https://hal.science/tel-01272674v1",
+    "scraped_at": "2026-08-17 11:47:37"
+  },
+  {
+    "id": 414,
+    "source_type": "dtic",
+    "title": "Air-to-Ground Target Detection and Identification - DSIAC",
+    "url_or_path": "https://dsiac.dtic.mil/technical-inquiries/notable/air-to-ground-target-detection-and-identification/",
+    "scraped_at": "2026-08-17 11:52:56"
+  },
+  {
+    "id": 415,
+    "source_type": "dtic",
+    "title": "Radguns - Dsiac",
+    "url_or_path": "https://dsiac.dtic.mil/models/radguns/",
+    "scraped_at": "2026-08-17 11:53:00"
+  },
+  {
+    "id": 419,
+    "source_type": "pdf",
+    "title": "Skolnik",
+    "url_or_path": "/home/pc/Desktop/RADAR/MRADAR/radar_corpus_project/downloads/skolnik.pdf",
+    "scraped_at": "2026-08-17 13:05:32"
+  },
+  {
+    "id": 420,
+    "source_type": "hal",
+    "title": "Image Segmentation Solutions for Improved Non-Cooperative Target Recognition",
+    "url_or_path": "https://hal.science/hal-05124766v1",
+    "scraped_at": "2026-08-17 13:31:05"
+  },
+  {
+    "id": 421,
+    "source_type": "hal",
+    "title": "Estimation of efficiency of a tree structured hierarchical wavelet representation of synthetic database applied to non-cooperative target recognition",
+    "url_or_path": "https://hal.science/hal-00486187v1",
+    "scraped_at": "2026-08-17 13:31:05"
+  },
+  {
+    "id": 422,
+    "source_type": "hal",
+    "title": "Development of multiresolution hierarchical trees to non-cooperative target recognition",
+    "url_or_path": "https://hal.science/hal-00776486v1",
+    "scraped_at": "2026-08-17 13:31:05"
+  },
+  {
+    "id": 423,
+    "source_type": "hal",
+    "title": "Application of the multiresolution wavelet representation to non-cooperative target recognition",
+    "url_or_path": "https://hal.science/hal-00389192v1",
+    "scraped_at": "2026-08-17 13:31:05"
+  },
+  {
+    "id": 424,
+    "source_type": "hal",
+    "title": "Automatic target recognition using passive bistatic radar signals.",
+    "url_or_path": "https://theses.hal.science/tel-00963601v1",
+    "scraped_at": "2026-08-17 13:31:05"
+  },
+  {
+    "id": 425,
+    "source_type": "hal",
+    "title": "Estimation of Efficiency of a Tree Structured Hierarchical Wavelet Representation of Synthetic Database applied to Non-Cooperative Target Recognition",
+    "url_or_path": "https://hal.science/hal-00608197v1",
+    "scraped_at": "2026-08-17 13:31:05"
+  },
+  {
+    "id": 426,
+    "source_type": "hal",
+    "title": "Development of multiresolution hierarchical trees to non-cooperative target recognition",
+    "url_or_path": "https://hal.science/hal-00776444v1",
+    "scraped_at": "2026-08-17 13:31:05"
+  },
+  {
+    "id": 427,
+    "source_type": "hal",
+    "title": "Deep Learning and Information Geometry for Time-Series Classification",
+    "url_or_path": "https://theses.hal.science/tel-03984879v2",
+    "scraped_at": "2026-08-17 13:31:05"
+  },
+  {
+    "id": 428,
+    "source_type": "hal",
+    "title": "Algorithmes de reconnaissance NCTR et parallélisation sur GPU",
+    "url_or_path": "https://hal.science/hal-00930953v1",
+    "scraped_at": "2026-08-17 13:31:05"
+  },
+  {
+    "id": 429,
+    "source_type": "hal",
+    "title": "A Fuzzy-Logic based non cooperative target recognition",
+    "url_or_path": "https://hal.science/hal-00778560v1",
+    "scraped_at": "2026-08-17 13:31:05"
+  },
+  {
+    "id": 430,
+    "source_type": "hal",
+    "title": "Développement d'algorithmes pour la fonction NCTR - Application des calculs parallèles sur les processeurs GPU",
+    "url_or_path": "https://theses.hal.science/tel-00907979v1",
+    "scraped_at": "2026-08-17 13:31:08"
+  },
+  {
+    "id": 431,
+    "source_type": "hal",
+    "title": "Development of a tree structured hierarchical wavelet representation of synthetic database to NCTR",
+    "url_or_path": "https://hal.science/hal-00486181v1",
+    "scraped_at": "2026-08-17 13:31:08"
+  },
+  {
+    "id": 432,
+    "source_type": "hal",
+    "title": "Implémentation et optimisation du calcul sur GPUs FERMI et non FERMI de la distance euclidienne entre des profils distance obtenus à partir de données radar dans le contexte NCTR",
+    "url_or_path": "https://hal.science/hal-01851986v1",
+    "scraped_at": "2026-08-17 13:31:08"
+  },
+  {
+    "id": 433,
+    "source_type": "hal",
+    "title": "Conditional Generative Models for High-Resolution Range Profiles: Capturing Geometry-Driven Trends in a Large-Scale Maritime Dataset",
+    "url_or_path": "https://hal.science/hal-05494027v1",
+    "scraped_at": "2026-08-17 13:31:10"
+  },
+  {
+    "id": 434,
+    "source_type": "hal",
+    "title": "MFN Decomposition and Related Metrics for High-Resolution Range Profiles Generative Models",
+    "url_or_path": "https://hal.science/hal-05494036v1",
+    "scraped_at": "2026-08-17 13:31:10"
+  },
+  {
+    "id": 435,
+    "source_type": "web",
+    "title": "Non-Cooperative Target Recognition",
+    "url_or_path": "https://en.wikipedia.org/wiki/Non-cooperative_target_recognition",
+    "scraped_at": "2026-08-17 13:33:57"
+  },
+  {
+    "id": 436,
+    "source_type": "web",
+    "title": "AESA Radar Systems",
+    "url_or_path": "https://en.wikipedia.org/wiki/Active_electronically_scanned_array",
+    "scraped_at": "2026-08-17 13:33:59"
+  },
+  {
+    "id": 437,
+    "source_type": "web",
+    "title": "Radar Cross Section (RCS)",
+    "url_or_path": "https://en.wikipedia.org/wiki/Radar_cross-section",
+    "scraped_at": "2026-08-17 13:34:01"
+  },
+  {
+    "id": 438,
+    "source_type": "web",
+    "title": "Doppler Radar Systems",
+    "url_or_path": "https://en.wikipedia.org/wiki/Doppler_radar",
+    "scraped_at": "2026-08-17 13:34:03"
+  },
+  {
+    "id": 439,
+    "source_type": "web",
+    "title": "Target Motion Analysis",
+    "url_or_path": "https://en.wikipedia.org/wiki/Target_Motion_Analysis",
+    "scraped_at": "2026-08-17 13:34:04"
+  },
+  {
+    "id": 440,
+    "source_type": "web",
+    "title": "Radar signal processing",
+    "url_or_path": "https://en.wikipedia.org/wiki/Radar_signal_processing",
+    "scraped_at": "2026-08-17 13:34:07"
+  },
+  {
+    "id": 441,
+    "source_type": "web",
+    "title": "Pulse-Doppler radar",
+    "url_or_path": "https://en.wikipedia.org/wiki/Pulse-Doppler_radar",
+    "scraped_at": "2026-08-17 13:34:09"
+  }
+]
