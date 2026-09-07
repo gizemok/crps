@@ -1,0 +1,7 @@
+arxiv==2.1.0
+pymupdf4llm>=0.0.17
+pymupdf>=1.24.0
+pandas
+requests
+beautifulsoup4
+duckduckgo-search>=5.0.0
